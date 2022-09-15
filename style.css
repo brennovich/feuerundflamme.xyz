@@ -1,0 +1,238 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+ul[role='list'],
+ol[role='list'] {
+  list-style: none;
+}
+html:focus-within {
+  scroll-behavior: smooth;
+}
+body {
+  min-height: 100vh;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+@media (prefers-reduced-motion: reduce) {
+  html:focus-within {
+   scroll-behavior: auto;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+body {
+  background-color: #dc8432;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+	margin: 2em 0;
+}
+
+.news {
+	margin: 2em 0;
+}
+
+footer {
+  text-align: center;
+	margin: 3em 0 0;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+  color: #feed00;
+  letter-spacing: -0.05em;
+  -webkit-text-stroke: 2px #0d0d0d;
+  text-stroke: 2px #0d0d0d;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+  margin-bottom: 1em;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  border-radius: 2em;
+  font-weight: bold;
+  color: hsla(0,0%,20%,1);
+  padding: 0.8em 1.8em;
+  text-shadow: hsla(0,0%,40%,.2) 0 -1px 0, hsla(0,0%,100%,.6) 0 2px 1px;
+  background-color: hsl(0,0%,90%);
+  box-shadow: inset hsla(0,0%,15%,  1) 0  0px 0px 4px,
+  inset hsla(0,0%,15%, .8) 0 -1px 5px 2px,
+  inset hsla(0,0%,0%, .25) 0 -1px 0px 5px,
+  inset hsla(0,0%,100%,.7) 0  2px 1px 5px,
+  hsla(0,0%, 0%,.15) 0 -4px 6px 2px,
+  hsla(0,0%,100%,.5) 0  4px 6px 2px;
+  transition: color .2s;
+}
+
+a:active {
+  background-color: hsl(0,0%,85%);
+  box-shadow: 
+    inset hsla(210,100%,30%,  1) 0  0px 0px 2px,
+    inset hsla(210,100%,15%, .4) 0 -1px 5px 2px,
+    inset hsla(210,100%,20%,.25) 0 -1px 0px 3px,
+    inset hsla(210,100%,100%,.1) 0  2px 1px 3px,
+    
+    rgba(221,164,94, .4) 0  0px 3px 2px,
+    rgba(221,164,94, .2) 0 -5px 6px 4px,
+    rgba(221,164,94, .5) 0  5px 6px 4px;
+}
+
+dt, dd {
+  text-shadow: 1px 0px 0px rgba(255,255,255,.8);
+}
+
+dt {
+  margin: 1em 0 0;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+dd {
+  margin: 0 0 0 1em;
+  padding: 0 0 0.5em 0;
+}
+
+.entry {
+  margin: 2em auto;
+  max-width: 640px;
+  padding: 2em 4em;
+  border-radius: 1em;
+  border: solid 4px rgba(0,0,0,.8);
+  box-shadow: 0px 6px 12px rgba(0,0,0,.5);
+  background-color: #E6E6E6;
+  background-image: linear-gradient(to top, rgba(222,162,92,.8), rgba(229,214,147,.6), transparent 80%), repeating-linear-gradient(90deg, #e6e6e6, #e6e6e6 10px, #bcbcbc 16px, #bcbcbc 40px, #e6e6e6 46px);
+}
+
+.fire {
+	font-size: 1em;
+	filter: blur(0.1em);
+	margin: 5em auto 0 auto;
+	width: 6em;
+	height: 8em;
+}
+
+.particle {
+	animation: rise 1s ease-in infinite;
+	background-image: radial-gradient(#ff5000 20%, rgba(255, 80, 0, 0) 70%);
+	border-radius: 50%;
+	display: block;
+	mix-blend-mode: screen;
+	opacity: 0;
+	position: absolute;
+	bottom: 0;
+	margin: 0;
+	width: 5em;
+	height: 5em;
+}
+
+.particle:nth-of-type(1) { animation-delay: 0.0681993875s; left: calc((100% - 5em) * 0); }
+.particle:nth-of-type(2) { animation-delay: 0.9236444125s; left: calc((100% - 5em) * 0.02); }
+.particle:nth-of-type(3) { animation-delay: 0.3491253771s; left: calc((100% - 5em) * 0.04); }
+.particle:nth-of-type(4) { animation-delay: 0.2329866998s; left: calc((100% - 5em) * 0.06); }
+.particle:nth-of-type(5) { animation-delay: 0.4600543913s; left: calc((100% - 5em) * 0.08); }
+.particle:nth-of-type(6) { animation-delay: 0.0919038641s; left: calc((100% - 5em) * 0.1); }
+.particle:nth-of-type(7) { animation-delay: 0.9877907762s; left: calc((100% - 5em) * 0.12); }
+.particle:nth-of-type(8) { animation-delay: 0.1041909394s; left: calc((100% - 5em) * 0.14); }
+.particle:nth-of-type(9) { animation-delay: 0.1697266351s; left: calc((100% - 5em) * 0.16); }
+.particle:nth-of-type(10) { animation-delay: 0.8144723942s; left: calc((100% - 5em) * 0.18); }
+.particle:nth-of-type(11) { animation-delay: 0.4713543515s; left: calc((100% - 5em) * 0.2); }
+.particle:nth-of-type(12) { animation-delay: 0.4057118939s; left: calc((100% - 5em) * 0.22); }
+.particle:nth-of-type(13) { animation-delay: 0.9996172079s; left: calc((100% - 5em) * 0.24); }
+.particle:nth-of-type(14) { animation-delay: 0.2957057969s; left: calc((100% - 5em) * 0.26); }
+.particle:nth-of-type(15) { animation-delay: 0.5700700113s; left: calc((100% - 5em) * 0.28); }
+.particle:nth-of-type(16) { animation-delay: 0.9063388414s; left: calc((100% - 5em) * 0.3); }
+.particle:nth-of-type(17) { animation-delay: 0.1351465684s; left: calc((100% - 5em) * 0.32); }
+.particle:nth-of-type(18) { animation-delay: 0.5786957401s; left: calc((100% - 5em) * 0.34); }
+.particle:nth-of-type(19) { animation-delay: 0.2819934782s; left: calc((100% - 5em) * 0.36); }
+.particle:nth-of-type(20) { animation-delay: 0.0292955604s; left: calc((100% - 5em) * 0.38); }
+.particle:nth-of-type(21) { animation-delay: 0.6532280625s; left: calc((100% - 5em) * 0.4); }
+.particle:nth-of-type(22) { animation-delay: 0.063609951s; left: calc((100% - 5em) * 0.42); }
+.particle:nth-of-type(23) { animation-delay: 0.0173020004s; left: calc((100% - 5em) * 0.44); }
+.particle:nth-of-type(24) { animation-delay: 0.0962224781s; left: calc((100% - 5em) * 0.46); }
+.particle:nth-of-type(25) { animation-delay: 0.9967005126s; left: calc((100% - 5em) * 0.48); }
+.particle:nth-of-type(26) { animation-delay: 0.1802253393s; left: calc((100% - 5em) * 0.5); }
+.particle:nth-of-type(27) { animation-delay: 0.0495517716s; left: calc((100% - 5em) * 0.52); }
+.particle:nth-of-type(28) { animation-delay: 0.4474645637s; left: calc((100% - 5em) * 0.54); }
+.particle:nth-of-type(29) { animation-delay: 0.8385021167s; left: calc((100% - 5em) * 0.56); }
+.particle:nth-of-type(30) { animation-delay: 0.9857091037s; left: calc((100% - 5em) * 0.58); }
+.particle:nth-of-type(31) { animation-delay: 0.0179443444s; left: calc((100% - 5em) * 0.6); }
+.particle:nth-of-type(32) { animation-delay: 0.8905630868s; left: calc((100% - 5em) * 0.62); }
+.particle:nth-of-type(33) { animation-delay: 0.3332473199s; left: calc((100% - 5em) * 0.64); }
+.particle:nth-of-type(34) { animation-delay: 0.9260362728s; left: calc((100% - 5em) * 0.66); }
+.particle:nth-of-type(35) { animation-delay: 0.0298211318s; left: calc((100% - 5em) * 0.68); }
+.particle:nth-of-type(36) { animation-delay: 0.6388921322s; left: calc((100% - 5em) * 0.7); }
+.particle:nth-of-type(37) { animation-delay: 0.4352892731s; left: calc((100% - 5em) * 0.72); }
+.particle:nth-of-type(38) { animation-delay: 0.3538202042s; left: calc((100% - 5em) * 0.74); }
+.particle:nth-of-type(39) { animation-delay: 0.7491589439s; left: calc((100% - 5em) * 0.76); }
+.particle:nth-of-type(40) { animation-delay: 0.6782413587s; left: calc((100% - 5em) * 0.78); }
+.particle:nth-of-type(41) { animation-delay: 0.0007382419s; left: calc((100% - 5em) * 0.8); }
+.particle:nth-of-type(42) { animation-delay: 0.5508612642s; left: calc((100% - 5em) * 0.82); }
+.particle:nth-of-type(43) { animation-delay: 0.6472039601s; left: calc((100% - 5em) * 0.84); }
+.particle:nth-of-type(44) { animation-delay: 0.5276921184s; left: calc((100% - 5em) * 0.86); }
+.particle:nth-of-type(45) { animation-delay: 0.7417953985s; left: calc((100% - 5em) * 0.88); }
+.particle:nth-of-type(46) { animation-delay: 0.7664680819s; left: calc((100% - 5em) * 0.9); }
+.particle:nth-of-type(47) { animation-delay: 0.9077712671s; left: calc((100% - 5em) * 0.92); }
+.particle:nth-of-type(48) { animation-delay: 0.3826021465s; left: calc((100% - 5em) * 0.94); }
+.particle:nth-of-type(49) { animation-delay: 0.5429202792s; left: calc((100% - 5em) * 0.96); }
+.particle:nth-of-type(50) { animation-delay: 0.1433944595s; left: calc((100% - 5em) * 0.98); }
+
+@keyframes rise {
+	from {
+		opacity: 0;
+		transform: translateY(0) scale(1);
+	}
+	25% {
+		opacity: 1;
+	}
+	to {
+		opacity: 0;
+		transform: translateY(-10em) scale(0);
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+		background-color: #300808;
+  }
+}
