@@ -90,7 +90,7 @@ h2 {
   font-size: 2em;
 }
 
-a {
+footer a {
   outline: none;
   text-decoration: none;
   border-radius: 2em;
@@ -108,14 +108,14 @@ a {
   transition: color .2s;
 }
 
-a:active {
+footer a:active {
   background-color: hsl(0,0%,85%);
   box-shadow: 
     inset hsla(210,100%,30%,  1) 0  0px 0px 2px,
     inset hsla(210,100%,15%, .4) 0 -1px 5px 2px,
     inset hsla(210,100%,20%,.25) 0 -1px 0px 3px,
     inset hsla(210,100%,100%,.1) 0  2px 1px 3px,
-    
+
     rgba(221,164,94, .4) 0  0px 3px 2px,
     rgba(221,164,94, .2) 0 -5px 6px 4px,
     rgba(221,164,94, .5) 0  5px 6px 4px;
