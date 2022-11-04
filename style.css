@@ -136,6 +136,11 @@ dd {
   padding: 0 0 0.5em 0;
 }
 
+img {
+  border-radius: 2em;
+  border: solid 1px #300808;
+}
+
 .entry {
   margin: 2em auto;
   max-width: 640px;
@@ -144,7 +149,7 @@ dd {
   border: solid 4px #300808;
   box-shadow: 0px 6px 12px rgba(0,0,0,.5), inset 0px -1px 0px rgba(255,255,255,.5), 0px -1px 0px rgba(255,255,255,.5);
   background-color: #E6E6E6;
-  background-image: linear-gradient(to top, rgba(222,162,92,.8), rgba(229,214,147,.6), transparent 80%), repeating-linear-gradient(90deg, #e6e6e6, #e6e6e6 10px, #bcbcbc 16px, #bcbcbc 40px, #e6e6e6 46px);
+  background-image: linear-gradient(to top, rgba(222,162,92,.9), rgba(229,214,147,.8), transparent 90%), repeating-linear-gradient(90deg, #f6f6f6, #f6f6f6 10px, #dcdcdc 16px, #dcdcdc 40px, #f6f6f6 46px);
 }
 
 .fire {
