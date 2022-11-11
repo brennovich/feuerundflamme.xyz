@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.liquid -%}
+
+  <body>
+    <main>
+      {%- include header.liquid -%}
+
+      <section class="page">
+        <h2>{{ page.title | escape }}</h2>
+
+        <article>
+          {{ content | remove: page.excerpt }}
+        </article>
+      </section>
+    </main>
+
+    {%- include footer.liquid -%}
+  </body>
+
+</html>

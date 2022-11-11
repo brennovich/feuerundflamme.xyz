@@ -1,0 +1,10 @@
+@import 'feuer/mixin/stroke';
+
+@mixin heading($color, $stroke-color) {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: $color;
+  font-weight: bold;
+
+  @include stroke(2px, $stroke-color);
+}

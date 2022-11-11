@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "de" }}">
+
+  {%- include head.liquid -%}
+
+  <body>
+    <main>
+      {%- include header.liquid -%}
+
+      {{ content }}
+
+      {%- if page.list_title -%}
+        <h2>{{ page.list_title }}</h2>
+      {%- endif -%}
+
+      <ol class="{{ page.layout }}">
+        {%- if site.fixed.size > 0 -%}
+          {%- assign fixed = site.fixed | sort: 'position' -%}
+
+          {%- for post in fixed -%}
+            <li>
+              <a href="{{ post.url | relative_url }}">{{ post.excerpt }}</a>
+            </li>
+          {%- endfor -%}
+        {%- endif -%}
+
+        {%- if site.posts.size > 0 -%}
+          {%- for post in site.posts -%}
+            <li>
+              <a href="{{ post.url | relative_url }}">{{ post.excerpt }}</a>
+            </li>
+          {%- endfor -%}
+        {%- endif -%}
+      </ol>
+    </main>
+
+    {%- include footer.liquid -%}
+  </body>
+
+</html>
