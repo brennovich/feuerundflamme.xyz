@@ -1,0 +1,13 @@
+body {
+  background: $bg;
+  background: linear-gradient(90deg, $bg 0%, $bg-alt 100%);
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: 1fr;
+  grid-template-areas: "main" "footer";
+  grid-template-rows: 1fr 120px;
+}
+
+main {
+  grid-area: main;
+}

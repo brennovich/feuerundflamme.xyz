@@ -1,0 +1,64 @@
+.tile {
+  display: grid;
+  grid-gap: 5vw;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  list-style: none;
+  margin-top: 2em;
+  padding: 0 5vw;
+
+  &> li {
+    background-color: $lila-neon;
+    border: solid 3px rgba(45, 45, 45, 0.4);
+    transition: transform 0.2s, box-shadow 0.3s ease-in-out;
+
+    &:nth-child(2n) {
+      background-color: $amarelo;
+    }
+
+    &:nth-child(3n-2) {
+      background-color: $blau;
+    }
+
+
+    &:nth-child(5n-1) {
+      background-color: $green;
+    }
+
+    &:hover {
+      box-shadow: 1px 3px 12px rgba(0, 0, 0, 0.5);
+      transform: scale(1.05);
+    }
+
+    &:active {
+      box-shadow: inset 0px 0px 6px rgba(0, 0, 0, 0.5);
+      border: solid 3px rgba(255, 255, 255, 0.3);
+      transform: scale(1);
+    }
+
+    &> a {
+      display: block;
+      height: 100%;
+      padding: 0.5em 1em;
+      text-decoration: none;
+      color: $fg;
+      @include overflow-wrap;
+    }
+
+    strong {
+      font-size: 1.5em;
+        line-height: 1.2em;
+
+      & em {
+        font-size: 1.8em;
+        line-height: 1.2em;
+        font-style: normal;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .tile {
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  }
+}
