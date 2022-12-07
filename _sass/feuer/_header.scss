@@ -8,15 +8,6 @@ header {
     text-align: center;
     letter-spacing: .1em;
     font-size: 6vw;
-    transition: transform ease-out .2s;
-
-    &:hover {
-      transform: scale(1.02);
-    }
-
-    &:active {
-      transform: scale(1);
-    }
   }
 
   &> h1 > a {
