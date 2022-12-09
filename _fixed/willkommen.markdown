@@ -3,14 +3,15 @@ title: Herzlich Willkommen
 position: 1
 ---
 
-**Herzlich Willkommen** zu **feuerexperimente4u** eine Veranstaltungsreihe
-vom ***Bündnis Feuer & Flamme*** KeramikTreff, Backhauswagen und ZusammenKüche am Rathausblock Kreuzberg.<br> Instagram: @buendnisfeuerundflamme
+**HERZLICH WILLKOMMEN** zu **feuerexperimente4u** eine Veranstaltungsreihe
+vom ***BÜNDNIS FEUER & FLAMME*** KeramikTreff, Backhauswagen und ZusammenKüche am Rathausblock Kreuzberg.<br> Instagram: @buendnisfeuerundflamme
 
 Das Bündnis Feuer&Flamme engagiert sich am Dragonerareal mit Workshops rund um den offenen Keramiktreff, Back- und Räucherhappenings am Backhauswagen und Einladungen zum gemeinsamen Kochen und Essen mit der Zusammenküche.
 
 Das Kochen und viele verwandte Tätigkeiten finden hauptsächlich im Privaten oder Verbogenen statt. Das partizipative Kochen möchte dazu beitragen, ein neues Verständnis der häuslichen Tätigkeit als wertvolle, produktive Einheit zu begreifen, die sozial engagierter ist und den Kontext stärker einbezieht als die gängige Idee des Haushalts als private Konsumeinheit.
 
 Seit einem Jahrzehnt befeuern aktive Bürger\*innen-Initiativen die öffentliche Diskussion über die Zukunft des Rathausblocks und haben daraus inzwischen ein Modellprojekt der kooperativen, gemeinwohlorientierten Stadtentwicklung gemacht. Das Bündnis Feuer&Flamme feuert weiter.
+
 
 ### Backhauswagen
 
