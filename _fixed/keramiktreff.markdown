@@ -1,12 +1,12 @@
 ---
-title: Keramiktreff
+title: 🔥❤️‍🔥💥 Keramiktreff 💥❤️‍🔥🔥
 position: 2
 ---
 
-**KERAMIKTREFF** jeden **Dienstag** von **17.00 - 20.00 Uhr** Offener KeramikTreff für
+🔥❤️‍🔥💥***KERAMIKTREFF***💥❤️‍🔥🔥 jeden **Dienstag** von **17.00 - 20.00 Uhr** Offener KeramikTreff für
 Neuanfänger\*innen, Expert\*innen und alle Anderen. Wir stellen Ton, Glasuren und Werkzeuge. Einzige Bitte: jede Person sollte auch immer einen Gegenstand für die ZusammenKüche produzieren. **WO** // auf der Brachfläche vor der Plangarage auf dem Rathausblock
 
-🔥❤️‍🔥💥 Auf dem durch Initiativen zurückeroberten Gelände des sogenannten Dragonerareals findet ein regelmäßiges und öffentliches Keramiktreffen für NachbarInnen und allen anderen BerlinerInnen statt 🔥❤️‍🔥💥
+*Auf dem durch Initiativen zurückeroberten Gelände des sogenannten Dragonerareals findet ein regelmäßiges und öffentliches Keramiktreffen für NachbarInnen und allen anderen BerlinerInnen statt.*
 
 Die offene Keramikwerkstatt soll ein informeller, niedrigschwelliger Ort der Nachbarschaft sein. Ein demokratischer Aktions- und Partizipations-Treffpunkt, ein Labor für und aus der Nachbarschaft. Das Angebot soll das kooperative, gemeinwohlorientierte Planungsverfahren zum Modellprojekt Rathausblock um künstlerisch geprägte Momente der Begegnung und des Austauschs ergänzen.
 
@@ -15,4 +15,4 @@ Geschirr für das gemeinsame Essen und Kochen der ZusammenKüche herstellen. Ton
 
 🌴 Es wird außerdem ab jetzt ein System geben, bei dem wir für die Teilnahme, den Ton und das Brennen jeweils Spenden vorschlagen, damit wir Verbrauchs- und Verschleißkosten decken können 💸
 
-Der KeramikTreff findet aktuell jeden Dienstag 17 – 20 Uhr im Kiezraum statt. Für aktuelle Informationen und eine Wegbeschreibung, schau Dich gern weiter auf unserer Website um.
+*Der KeramikTreff findet aktuell jeden Dienstag 17 – 20 Uhr im Kiezraum statt. Für aktuelle Informationen und eine Wegbeschreibung, schau Dich gern weiter auf unserer Website um.*
