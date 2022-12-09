@@ -3,7 +3,7 @@ title: 🔥❤️‍🔥💥 Keramiktreff 💥❤️‍🔥🔥
 position: 2
 ---
 
-🔥❤️‍🔥💥***KERAMIK  TREFF***💥❤️‍🔥🔥 jeden **Dienstag** von **17.00 - 20.00 Uhr** Offener KeramikTreff für
+🔥❤️‍🔥💥***KERAMIK  TREFF***💥❤️‍🔥🔥 jeden **DIENSTAG** von **17.00 - 20.00 Uhr** **WAS** // Offener KeramikTreff für
 Neuanfänger\*innen, Expert\*innen und alle Anderen. Wir stellen Ton, Glasuren und Werkzeuge. **WO** // auf der Brachfläche vor der Plangarage auf dem Rathausblock
 
 ### Auf dem durch Initiativen zurückeroberten Gelände des sogenannten Dragonerareals findet ein regelmäßiges und öffentliches Keramiktreffen für NachbarInnen und allen anderen BerlinerInnen statt.
