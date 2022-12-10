@@ -1,6 +1,6 @@
 @import 'feuer/mixin/heading';
 
-$feuer-logo-color: #e3b44e;
+$feuer-logo-color: #0019eb;
 $feuer-logo-stroke-color: #a75875;
 
 header {
@@ -11,7 +11,7 @@ header {
   }
 
   &> h1 > a {
-    transition: font-size ease-out 2s;
+    transition: font-size ease-out 20s;
     @include heading($feuer-logo-color, $feuer-logo-stroke-color);
   }
 
