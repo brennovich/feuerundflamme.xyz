@@ -1,6 +1,6 @@
 @import 'feuer/mixin/heading';
 
-$feuer-logo-color: #0019eb;
+$feuer-logo-color: #e3b44e;
 $feuer-logo-stroke-color: #a75875;
 
 header {
@@ -11,12 +11,12 @@ header {
   }
 
   &> h1 > a {
-    transition: font-size ease-out 20s;
+    transition: font-size ease-out .2s;
     @include heading($feuer-logo-color, $feuer-logo-stroke-color);
   }
 
   &> marquee {
-    padding: .5em;
+    padding: 5em;
     font-weight: bold;
     background-color: rgb(229, 223, 11);
     border-bottom: solid 1px rgba(0, 0, 0, .3);
