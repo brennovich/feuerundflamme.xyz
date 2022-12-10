@@ -11,7 +11,7 @@ header {
   }
 
   &> h1 > a {
-    transition: font-size ease-out .2s;
+    transition: font-size ease-out 2s;
     @include heading($feuer-logo-color, $feuer-logo-stroke-color);
   }
 
