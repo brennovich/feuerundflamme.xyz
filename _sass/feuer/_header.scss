@@ -16,7 +16,7 @@ header {
   }
 
   &> marquee {
-    padding: 5em;
+    padding: .5em;
     font-weight: bold;
     background-color: rgb(229, 223, 11);
     border-bottom: solid 1px rgba(0, 0, 0, .3);
@@ -41,8 +41,8 @@ header {
       text-decoration: none;
       color: $fg;
       font-weight: bolder;
-      border-left: solid 3px $fg;
-      border-right: solid 3px $fg;
+      border-left: solid 30px $fg;
+      border-right: solid 30px $fg;
 
       & + a {
         border-left: 0;
