@@ -3,7 +3,7 @@ title: 🪨🔥🪨 Raku Workshop 🪨🔥🪨
 position: 7
 ---
 
-🔥🪨🔥🪨🔥🪨🔥🪨🔥🪨🔥🪨🔥🪨🔥 <br> ***feuer experi mente4u: Raku Workshop***
+🔥🪨🔥🪨🔥🪨🔥🪨🔥🪨🔥🪨🔥🪨🔥 <br> feuer experimente4u: ***Raku Workshop***
 Am **25.09.** ab **11.00 Uhr** werden wir mit der Raku Meisterin Cornelia Nagel Objekte glasieren und im Rakuofen brennen. **WIE** // Anmeldung: keramiktreff(at)feuerundflamme.xyz **WO** // auf der Brachfläche vor der Plangarage auf dem Rathausblock
 
 RAKU ist eine japanische Brenntechnik. Bei dieser Technik werden die Keramikobjekte in einem speziellen Ofen gebrannt und dann mit Zangen aus dem heißen Ofen genommen, in Sägespäne gelegt und später in eiskaltem Wasser abgeschreckt. Durch diese Technik entstehen unvorhersehbare Farbeffekte und -maserungen auf den Keramikobjekten.
