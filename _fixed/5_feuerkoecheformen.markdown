@@ -1,5 +1,5 @@
 ---
-title: 🔥🫕🔥 FEUERKÜCHE: FORMEN 🔥🔪🔥
+title: 🔥🫕🔥 FEUERKÜCHE FORMEN 🔥🔪🔥
 position: 5
 ---
 
