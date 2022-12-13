@@ -6,5 +6,5 @@
   color: $color;
   font-weight: bold;
 
-  @include stroke(2px, $stroke-color);
+  @include stroke(3px, $stroke-color);
 }
