@@ -1,6 +1,6 @@
 ---
 title: 🔥🧱🌟MAPPING RATHAUSBLOCK✨🪨🔥
-position: 4
+position: 6
 ---
 
 🔥🧱🌟 Ferienworkshop ✨🪨🔥 <br> ***MAPPING RATHAUS BLOCK*** für Kinder und Jugendliche im Alter von 8-14 Jahren. Vom **25. bis 27.10.2022** 10 bis 15 Uhr mit Mittagessen. Kostenlos mit Anmeldung.
