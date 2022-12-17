@@ -3,7 +3,7 @@ Titel: KeramikTreff Spezial
 date: 2022-09-04
 ---
 
-🔥 Am **Sonntag**, den **4.9. ab 14 Uhr**, laden wir ein zum **KeramikTreff Spezial:** ***GLASIEREN*** ein.🔥 Parallel wird es am **Backhauswagen** einen **RÄUCHERWORKSHOP** geben 🍆🧄🧅und ab 16 Uhr ist dann **GRILLEN UND BROTBACKEN** angesagt.🌽🥕🥦
+🔥 Am **Sonntag**, den **4.9. ab 14 Uhr**, laden wir ein zum **KeramikTreff Spezial:** ***GLASIEREN*** ein.🔥 Parallel wird es am Backhauswagen einen Räucherworkshop geben 🍆🧄🧅und ab 16 Uhr ist dann Grillen und Brotbacken angesagt.🌽🥕🥦
 
 Liebe Keramikfreund*innen,
 🔥 Am Sonntag, den 4.9. von 14 bis 17 Uhr, laden wir ein zum KeramikTreff Spezial: Thema Glasieren.
