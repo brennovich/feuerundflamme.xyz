@@ -3,7 +3,7 @@ Titel: 🌪🔥🌪 Räucher-Workshop 🌪🔥🌪
 Date: 2022-09-04
 --- 
 
-🌪🔥🌪Herzliche Einladung🌪🔥🌪: <br> ***Räucher Workshop*** am **Backhauswagen** ab **14 Uhr** mit **Jonas Kang** Parallel lädt der KeramikTreff zu einem Spezial Termin ein: Thema Glasieren. Ab 16 Uhr gibts offenes Grillen und Brotbacken!
+🌪🔥🌪Herzliche Einladung🌪🔥🌪: <br> ***RÄUCHER WORKSHOP*** am **Backhauswagen** ab **14 Uhr** mit **Jonas Kang** Parallel lädt der KeramikTreff zu einem Spezial Termin ein: Thema Glasieren. Ab 16 Uhr gibts offenes Grillen und Brotbacken!
 
 Herzliche Einladung: 
 Räucher-Workshop am Backhauswagen
