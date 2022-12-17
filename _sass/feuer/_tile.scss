@@ -1,10 +1,10 @@
 .tile {
   display: grid;
-  grid-gap: 5vw;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-gap: 1.5vw;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
   list-style: none;
-  margin-top: 2em;
-  padding: 0 5vw;
+  margin-top: 52vw;
+  padding: 0 8vw;
 
   &> li {
     background-color: $lila-neon;
@@ -26,7 +26,7 @@
 
     &:hover {
       box-shadow: 1px 3px 12px rgba(0, 0, 0, 0.5);
-      transform: scale(1.05);
+      transform: scale(1.03);
     }
 
     &:active {
@@ -58,8 +58,20 @@
   }
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 640px) {
   .tile {
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    margin-top: 38vw;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .tile {
+    margin-top: 18vw;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .tile {
+    margin-top: 16vw;
   }
 }
