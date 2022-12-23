@@ -11,4 +11,4 @@ Am Anfang der Feuerküche-Recherche steht ein brasilianischer Barro Preto Topf a
 
 mit: Mascha Fehse, Johanna Dehio und Olga Monina
 
-
+Die Veranstaltung ist Teil der Reihe **feuerexperimente4u**. Diese wurde gefördert von der Senatsverwaltung für Kultur und Europa sowie der Stiftung für Kulturelle Weiterbildung und Kulturberatung als Teil der Initiative DRAUSSENSTADT. 
