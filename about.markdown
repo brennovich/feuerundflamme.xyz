@@ -27,4 +27,4 @@ Die ZusammenKüche ist ein Ort und eine Praxis, welche die Bedürfnisse der jetz
 
 Eine Veranstaltungsreihe des Bündnis Feuer&Flamme für ein Areal in Transformation. Künstlerische Leitung: Paula Erstmann, Mascha Fehse, Rebecca Wall; mit Beiträgen von: Johanna Beyer, Yann Colonna, Brenno Costa, Johanna Dehio, Frederic Erdl, Constanze Flamme, Mona Horst, Jonas Kang, Mio Kojima, Emily Krüger, Olga Monina, Josa Leschner, Cornelia Nagel
 
-**Laufzeit**: Juni – Oktober 2022. Gefördert von *Draussenstadt*.
+**Laufzeit**: Juni – Oktober 2022. Teil der Initiative DRAUSSENSTADT, gefördert von der Senatsverwaltung für Kultur und Europa sowie der Stiftung für Kulturelle Weiterbildung und Kulturberatung.
