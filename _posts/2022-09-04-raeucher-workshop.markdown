@@ -24,4 +24,4 @@ Plangarage
 
 Der Backhauswagen steht auf der Brache vor der Plangarage auf dem Dragonerareal.
 
-Teil der Initiative DRAUSSENSTADT, gefördert von der Senatsverwaltung für Kultur und Europa sowie der Stiftung für Kulturelle Weiterbildung und Kulturberatung
+Die Veranstaltung ist Teil der Reihe **feuerexperimente4u**. Diese wurde gefördert von der Senatsverwaltung für Kultur und Europa sowie der Stiftung für Kulturelle Weiterbildung und Kulturberatung als Teil der Initiative DRAUSSENSTADT. 
