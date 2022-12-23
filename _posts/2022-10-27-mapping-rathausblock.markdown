@@ -16,3 +16,5 @@ Bitte teilt uns bei der Anmeldung folgende Informationen mit: Vor- und Nachname 
 ### ORT
 Plangarage & Kiezraum
 U Mehringdamm
+
+Teil der Initiative DRAUSSENSTADT, gefördert von der Senatsverwaltung für Kultur und Europa sowie der Stiftung für Kulturelle Weiterbildung und Kulturberatung
