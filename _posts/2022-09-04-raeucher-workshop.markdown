@@ -23,3 +23,5 @@ Plangarage
 10961 Berlin
 
 Der Backhauswagen steht auf der Brache vor der Plangarage auf dem Dragonerareal.
+
+Teil der Initiative DRAUSSENSTADT, gefördert von der Senatsverwaltung für Kultur und Europa sowie der Stiftung für Kulturelle Weiterbildung und Kulturberatung
