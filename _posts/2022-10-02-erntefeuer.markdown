@@ -8,3 +8,5 @@ Am **Sonntag**, den **2.10.2022** möchten wir mit Euch ein 🔥🌽🔥 ***ERNT
 
 🔥🌽🔥 ERNTEFEUER 🔥🥔🔥
 Am Sonntag, den 2. Oktober möchten wir mit Euch ein Erntefeuer veranstalten. Der Sommer verabschiedet sich, die Ernte unserer sommerlichen Aktivitäten ist eingefahren! - Genug Gründe, in den selbst-gebrannten Töpfen mit Euch allerhand Leckeres auf die herbstliche Tafel zu zaubern. In den am Samstag im Holzfeuer gebrannten Tongefäßen bereiten wir gemeinsam rund um und im Erntefeuer spätsommerliches Gemüse, Eintopf, Obst, Brot und heißen Kakao zu. Bei gutem Wetter draußen und bei Regen drinnen laden wir zum Vorbeikommen, Probieren, Händewärmen und auf ein heißes Getränk ein. Wir freuen uns auf euch! Bitte meldet Euch vorher unter kontakt@feuerundflamme.xyz an, damit wir das Essen planen können.
+
+Teil der Initiative DRAUSSENSTADT, gefördert von der Senatsverwaltung für Kultur und Europa sowie der Stiftung für Kulturelle Weiterbildung und Kulturberatung
