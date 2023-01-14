@@ -27,7 +27,9 @@
         {%- if site.posts.size > 0 -%}
           {%- for post in site.posts -%}
             <li>
-              <a href="{{ post.url | relative_url }}">{{ post.excerpt }}</a>
+              <a href="{{ post.url | relative_url }}" class="{%- if post.excerpt contains "<img"-%}media{%- endif -%}">
+                {{ post.excerpt }}
+              </a>
             </li>
           {%- endfor -%}
         {%- endif -%}

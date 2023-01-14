@@ -4,8 +4,16 @@
   {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
   {%- if site.posts.size > 0 -%}
+    {%- for post in site.posts -%}
+      {% if post.excerpt contains '<img' %}
+      {% else %}
+        {%- assign banner = post.excerpt -%}
+        {% break %}
+      {% endif %}
+    {%- endfor -%}
+
     <marquee>
-      {{ site.posts.first.excerpt }}
+      {{ banner }}
     </marquee>
   {%- endif -%}
 

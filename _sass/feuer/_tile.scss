@@ -19,7 +19,6 @@
       background-color: $blau;
     }
 
-
     &:nth-child(5n-1) {
       background-color: $green;
     }
@@ -51,6 +50,14 @@
       color: $fg;
       word-wrap: break-word;
       overflow-wrap: break-word;
+
+      &.media {
+        padding: 0;
+
+        &> p {
+          margin-bottom: 0;
+        }
+      }
     }
 
     strong {
