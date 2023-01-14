@@ -39,19 +39,36 @@
 
 @media screen and (min-width: 480px) {
   .page {
-    margin-top: 18vw;
+    margin-top: 25vw;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  .page {
+    margin-top: 23vw;
   }
 }
 
 @media screen and (min-width: 800px) {
   .page {
-    margin-top: 14vw;
+    margin-top: 19vw;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .page {
-    margin-top: 12vw;
+    margin-top: 18vw;
   }
 }
 
+@media screen and (min-width: 1366px) {
+  .page {
+    margin-top: 17vw;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .page {
+    margin-top: 15vw;
+  }
+}

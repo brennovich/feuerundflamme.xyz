@@ -24,6 +24,14 @@
       background-color: $green;
     }
 
+    &:nth-child(7n-1) {
+      background-color: $lime;
+    }
+
+    &:nth-child(6n-2) {
+      background-color: $tangerine;
+    }
+
     &:hover {
       box-shadow: 1px 3px 12px rgba(0, 0, 0, 0.5);
       transform: scale(1.03);
@@ -58,20 +66,39 @@
   }
 }
 
+@media screen and (min-width: 480px) {
+  .tile {
+    margin-top: 25vw;
+  }
+}
+
 @media screen and (min-width: 640px) {
   .tile {
-    margin-top: 38vw;
+    margin-top: 23vw;
   }
 }
 
 @media screen and (min-width: 800px) {
   .tile {
-    margin-top: 18vw;
+    margin-top: 19vw;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .tile {
-    margin-top: 16vw;
+    margin-top: 18vw;
   }
 }
+
+@media screen and (min-width: 1366px) {
+  .tile {
+    margin-top: 17vw;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .tile {
+    margin-top: 15vw;
+  }
+}
+

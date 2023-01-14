@@ -74,7 +74,7 @@ header {
 @media screen and (max-width: 800px) {
   header {
     &> h1 {
-      font-size: 9vw;
+      font-size: 8.4vw;
       line-height: 1em;
     }
 
@@ -87,8 +87,7 @@ header {
 @media screen and (min-width: 480px) {
   header {
     &> h1 {
-      font-size: 6vw;
+      font-size: 5.625vw;
     }
   }
 }
-
