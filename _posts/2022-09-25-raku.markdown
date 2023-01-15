@@ -13,10 +13,10 @@ Am Dienstag, 13.09., um 17.30 - 20.30 laden wir zum KeramikTreff Spezial: Raku F
 
 Wir hoffen, dass dies nur der erste von vielen Raku-Workshops vom Bündnis Feuer&Flamme wird!
 
-![220925_fe4u_raku_maschafehse196](https://user-images.githubusercontent.com/115560099/208247505-b4d49319-da99-4c0e-929b-04aedc822901.JPG)
-![220925_fe4u_raku_maschafehse292](https://user-images.githubusercontent.com/115560099/208247507-14e1abb4-848b-4682-bea1-9f0a71d7f5f2.JPG)
-![220925_fe4u_raku_maschafehse142](https://user-images.githubusercontent.com/115560099/208247511-1a95734e-2837-4d93-bc61-37efaccce294.JPG)
-Fotos von Constanze Flamme
-
+<figure class="gallery" data-credit="Constanze Flamme" markdown=1>
+- ![220925_fe4u_raku_maschafehse196](https://user-images.githubusercontent.com/115560099/208247505-b4d49319-da99-4c0e-929b-04aedc822901.JPG)
+- ![220925_fe4u_raku_maschafehse292](https://user-images.githubusercontent.com/115560099/208247507-14e1abb4-848b-4682-bea1-9f0a71d7f5f2.JPG)
+- ![220925_fe4u_raku_maschafehse142](https://user-images.githubusercontent.com/115560099/208247511-1a95734e-2837-4d93-bc61-37efaccce294.JPG)
+</figure>
 
 Die Veranstaltung ist Teil der Reihe **feuerexperimente4u**. Diese wurde gefördert von der Senatsverwaltung für Kultur und Europa sowie der Stiftung für Kulturelle Weiterbildung und Kulturberatung als Teil der Initiative DRAUSSENSTADT. 
