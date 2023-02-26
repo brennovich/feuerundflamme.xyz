@@ -3,7 +3,7 @@ title: 🌱🔥Wir sind zurück!🔥🌿
 date: 2023-01-10
 ---
 
-🌱🔥***Wir sind zurück!***🔥🌿 Der ***KERAMIK  TREFF*** findet seid dem 10.01.2023 wieder jeden **DIENSTAG** von **17.00 - 20.00 Uhr** statt. **WAS** // Offener KeramikTreff für
+🌱🔥***Wir sind zurück!***🔥🌿 Der ***KERAMIK  TREFF*** findet seit dem 10.01.2023 wieder jeden **DIENSTAG** von **17.00 - 20.00 Uhr** statt. **WAS** // Offener KeramikTreff für
 Neuanfänger\*innen, Expert\*innen und alle Anderen. Wir stellen Ton, Glasuren und Werkzeuge. **WO** // im Kiezraum auf dem Rathausblock
 
 ### Auf dem durch Initiativen zurückeroberten Gelände des sogenannten Dragonerareals findet ein regelmäßiges und öffentliches Keramiktreffen für NachbarInnen und allen anderen BerlinerInnen statt.
