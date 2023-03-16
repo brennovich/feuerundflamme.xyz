@@ -1,0 +1,13 @@
+---
+title: 🌝🔥🌞Equinox🌞🔥🌝
+date: 2023-03-16
+---
+
+On ***19.03.23*** we are celebrating 🌝🔥🌞***EQUINOX***🌞🔥🌝 with **Calçotada and more** at the ***BACKHAUSWAGEN***. 12 pm we´ll teach **anyone interested on how to get the fire started** and from 2pm on the **food will start rolling out**.
+
+Equinox is about to happen. Finally the light of the day will defeat the dark of the night. From that day our place under the sun will have more time in the light then time in the dark. And we want to celebrate that; with a little late lunch from the oven and the barbecue. There will be bread, pizza and hopefully a lot of charred spring onions with a romesco sauce. There are rumors of chicken cooked in clay and there will be a heartwarming stew if the weather's not yet ready for us.
+As always we encourage any cooking and baking experiments to take place as well as contributions to the lunch and we'll be there from 12 am to teach anyone interested on how to get the fires started.
+From 2pm the food will start rolling out.
+
+Please bring food, drinks or donations for firewood and the lunch.
+Get in contact if you have interest in experimenting and/or have questions.
