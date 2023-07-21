@@ -3,7 +3,7 @@ title: 🔥🌪🍕BACKHAUSWAGEN & FOODNETZWERK🍕🌪🔥
 date: 2023-03-16
 ---
 
-***BACKHAUS   WAGEN & FOODNETZ    WERK***  laden am **SAMSTAG 10. Juni** 2023 **ab 13 Uhr** zum Backhauswagen auf dem Rathausblock zu 🔥🌪🍕Feuerexperimenten und Backofeneinführung 🍕🌪🔥 ein.
+***BACKHAUS WAGEN & FOODNETZ WERK***  laden am **SAMSTAG 10. Juni** 2023 **ab 13 Uhr** zu 🔥🌪🍕Feuerexperimenten und Backofeneinführung 🍕🌪🔥 ein.
 
 Ab 13 Uhr Backofeneinführung (Anmeldung per E-mail unter kontakt@feuerundflamme.xyz), ab 16 Uhr Pizza- und Focacciabacken für alle - wir stellen den Teig, bringt gerne Belag und Getränke mit. <br>
 
