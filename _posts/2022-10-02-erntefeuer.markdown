@@ -3,7 +3,7 @@ Titel: Ernte Feuer
 Date: 2022-10-02
 --- 
 
-Am **Sonntag**, den **2.10.2022** möchten wir mit Euch ein 🔥🌽🔥 ***ERNTEFEUER*** 🔥🥔🔥 veranstalten. Bei gutem Wetter draußen und bei Regen drinnen laden wir zum Vorbeikommen, Probieren, Händewärmen und auf ein heißes Getränk ein. Wir freuen uns auf euch!
+Am **Sonntag**, den **2.10.2022** möchten wir mit Euch ein 🔥🌽🔥 ***ERNTE FEUER*** 🔥🥔🔥 veranstalten. Bei gutem Wetter draußen und bei Regen drinnen laden wir zum Vorbeikommen, Probieren, Händewärmen und auf ein heißes Getränk ein. Wir freuen uns auf euch!
 
 
 🔥🌽🔥 ERNTEFEUER 🔥🥔🔥
