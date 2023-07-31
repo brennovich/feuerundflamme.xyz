@@ -1,5 +1,5 @@
 ---
-title: 👀🔥🐾 Mapping Rathausblock 👣🔥👀
+title: Mapping Mehringplatz
 date: 2023-08-02
 ---
 
