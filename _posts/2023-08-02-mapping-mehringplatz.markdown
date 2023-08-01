@@ -1,6 +1,6 @@
 ---
-title: Mapping Mehringplatz
-date: 2023-08-02
+title: 🔥Mapping Mehringplatz🔥
+date: 2023-08-01
 ---
 
 Am **MITTWOCH 02. August** um **16.30 Uhr** findet am **Mehringplatz** der Workshop 🔥 ***MAPPING MEHRINGSPLATZ*** 🔥 statt.  Mit Hilfe von Tonabdrücken entdecken wir den Mehringplatz neu und verwandeln ihn gleichzeitig in Gegenstände für den alltäglichen Gebrauch.
