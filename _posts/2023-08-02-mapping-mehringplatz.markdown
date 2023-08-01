@@ -3,9 +3,9 @@ title: Mapping Mehringplatz
 date: 2023-08-02
 ---
 
-Am **MITTWOCH 02. August** um **16.30 Uhr** findet am **Mehringplatz** der Workshop 👀🔥🐾 ***MAPPING MEHRINGSPLATZ*** 👣🔥👀 statt.  Mit Hilfe von Tonabdrücken entdecken wir den Mehringplatz neu und verwandeln ihn gleichzeitig in Gegenstände für den alltäglichen Gebrauch.
+Am **MITTWOCH 02. August** um **16.30 Uhr** findet am **Mehringplatz** der Workshop 🔥 ***MAPPING MEHRINGSPLATZ*** 🔥 statt.  Mit Hilfe von Tonabdrücken entdecken wir den Mehringplatz neu und verwandeln ihn gleichzeitig in Gegenstände für den alltäglichen Gebrauch.
 
-🌟 Freut euch auf ein einzigartiges Erlebnis im Herzen der Stadt! 🏙️ Paula Erstmann und Yann Colonna präsentieren im Rahmen des UP TustFUNd ihre gemeinsam entwickelten künstlerischen Formate, die sich mit den faszinierenden Erinnerungspraktiken des urbanen Alltags beschäftigen. 🔥
+🌟 Freut euch auf ein einzigartiges Erlebnis im Herzen der Stadt! Paula Erstmann und Yann Colonna präsentieren im Rahmen des UP TustFUNd ihre gemeinsam entwickelten künstlerischen Formate, die sich mit den faszinierenden Erinnerungspraktiken des urbanen Alltags beschäftigen. 🔥
 
 Gemeinsam begeben wir uns auf eine spannende Reise, bei der Feuer als metaphorisches Bindeglied zwischen Wahrnehmung und der Materialität von Essen und Keramik dient. Die beiden Formate wurden im "Bündnis Feuer und Flamme" auf dem Dragoner Areal / Rathausblock entwickelt und sind ein Ausdruck von kreativer Zusammenarbeit und urbaner Kultur. 🔥
 
