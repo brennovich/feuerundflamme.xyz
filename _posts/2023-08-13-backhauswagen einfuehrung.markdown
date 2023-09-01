@@ -5,8 +5,8 @@ date: 2023-08-13
 
 Am **Sonntag** den **13.August ab 12 Uhr** findet die nächste <br>
 🥖🍞🔥***BACKHAUS*** <br> 
-***WAGEN EIN*** <br>
-***FÜHRUNG***🔥🥐🥨 statt. Gemeinsam heizen wir den Ofen auf die richtige Temperatur an und BACKEN🔥🔥!
+***WAGEN***🔥🥐🥨 <br>
+***EINFÜHRUNG*** statt. Gemeinsam heizen wir den Ofen auf die richtige Temperatur an und BACKEN🔥🔥!
 
 
 Der Backhauswagen ist eine kostenlose, zugängliche, mobile, versorgende und fürsorgende Infrastruktur für ein Areal in Transformation: ein Brotbackofen, Gärkammer und Räucherofen im Auto-Anhänger-Format. Zur Zeit steht der Backhauswagen vor der Alten Reithalle auf dem Rathausblock.
