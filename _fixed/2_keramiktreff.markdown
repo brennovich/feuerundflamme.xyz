@@ -17,7 +17,8 @@ Geschirr für das gemeinsame Essen und Kochen der ZusammenKüche herstellen. Ton
 
 ### Der KeramikTreff findet aktuell jeden Dienstag 17 – 20 Uhr vor der Werkhalle auf dem Rathausblock statt. Für aktuelle Informationen schau Dich gern weiter auf unserer Website um.*
 
-![2023-09-11_Dragonerareal_small](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/7dd6a903-cc89-440b-92e6-5ba74653c423)
+![2023-09-11_Dragonerareal_1500_02](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/2987a04d-aca3-4b3f-8bf8-09ed55fedb8f)
+
 
 ![221004_feuer flamme_constanze-flamme253](https://user-images.githubusercontent.com/115560099/208246049-446271e5-f6d3-48e0-b431-dfd2fae6af58.jpg)
 ![221004_feuer flamme_constanze-flamme265(1)](https://user-images.githubusercontent.com/115560099/208246050-bef93390-ba12-49c8-bed3-420424f5fe07.jpg)
