@@ -4,7 +4,7 @@ position: 2
 ---
 
 🔥❤️‍🔥💥***KERAMIK  TREFF***💥❤️‍🔥🔥 jeden **DIENSTAG** von **17.00 - 20.00 Uhr** <br> **WAS** // Offener KeramikTreff für
-Neuanfänger\*innen, Expert\*innen und alle Anderen. Wir stellen Ton, Glasuren und Werkzeuge. **WO** // im Kiezraum auf dem Rathausblock
+Neuanfänger\*innen, Expert\*innen und alle Anderen. Wir stellen Ton, Glasuren und Werkzeuge. **WO** // vor der Werkhalle auf dem Rathausblock
 
 ### Auf dem durch Initiativen zurückeroberten Gelände des sogenannten Dragonerareals findet ein regelmäßiges und öffentliches Keramiktreffen für NachbarInnen und allen anderen BerlinerInnen statt.
 
@@ -15,7 +15,7 @@ Geschirr für das gemeinsame Essen und Kochen der ZusammenKüche herstellen. Ton
 
 🌴 Es wird außerdem ab jetzt ein System geben, bei dem wir für die Teilnahme, den Ton und das Brennen jeweils Spenden vorschlagen, damit wir Verbrauchs- und Verschleißkosten decken können 💸
 
-### Der KeramikTreff findet aktuell jeden Dienstag 17 – 20 Uhr im Kiezraum statt. Für aktuelle Informationen und eine Wegbeschreibung, schau Dich gern weiter auf unserer Website um.*
+### Der KeramikTreff findet aktuell jeden Dienstag 17 – 20 Uhr vor der Werkhalle auf dem Rathausblock statt. Für aktuelle Informationen und eine Wegbeschreibung, schau Dich gern weiter auf unserer Website um.*
 
 
 ![221004_feuer flamme_constanze-flamme253](https://user-images.githubusercontent.com/115560099/208246049-446271e5-f6d3-48e0-b431-dfd2fae6af58.jpg)
