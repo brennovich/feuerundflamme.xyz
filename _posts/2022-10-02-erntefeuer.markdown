@@ -11,3 +11,5 @@ Am Sonntag, den 2. Oktober möchten wir mit Euch ein Erntefeuer veranstalten. De
 
 
 Die Veranstaltung ist Teil der Reihe **feuerexperimente4u**. Die Reihe wurde gefördert von der Senatsverwaltung für Kultur und Europa sowie der Stiftung für Kulturelle Weiterbildung und Kulturberatung als Teil der Initiative DRAUSSENSTADT. 
+![221002_feuer flamme_constanze-flamme185](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/c6d1bd49-3ccf-4a1b-8771-a7e76130a284)
+Foto: Constanze Flamme
