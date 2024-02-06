@@ -1,0 +1,17 @@
+---
+title: 💫🐉🥠Chinese New Year🐲🥟✨
+date: 2024-02-06
+---
+
+Spring Festival aka 💫🐉🥠***Chinese New Year***🐲🥟✨ is coming up next **SUNDAY 10.FEBRUARY** - a perfect excuse to **fire up the oven** and welcome in the Year of the Dragon! Starting the oven at 11 am - starting to bake at around 2 - 3 pm.
+
+Spring Festival aka 💫🐉🥠 Chinese New Year 🐲🥟✨ is coming up next Sunday, 10. February - a perfect excuse to **fire up the oven** and welcome in the Year of the Dragon! Starting the oven at 11 am - starting to bake at around 2 - 3 pm.
+For this occasion, we will prepare some Teigtaschen, which are still in the form of this festival food, but probably not the most Chinese traditional one.  Everyone is of course very welcome to bring their own dough, their own version of dumplings, or their own favourite type of festival food. Just keep in mind that the the oven will be set to low-medium heat, which is perfect for bread, pie, cakes, etc, but not really for pizza. 
+We plan to start setting up around 11am, so hopefully the oven will be ready around 13-14pm. 
+
+Hope to see you there!
+A small donation for wood and space is always appreciated!
+<br>
+
+![NF_230122_0005_web_d0fhyf](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/ea387e88-22fa-47b9-ac6b-e9f3194e4eae)
+photo by Nico Fritzenschaft
