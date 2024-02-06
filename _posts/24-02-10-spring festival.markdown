@@ -12,7 +12,8 @@ For this occasion, we will prepare **some Teigtaschen**, which are still in the 
 Just keep in mind that the the oven will be set to low-medium heat, which is perfect for bread, pie, cakes, etc, but not really for pizza. 
 <br>
 We plan to start setting up around 11am, so hopefully the oven will be ready around 13-14pm.
-The oven is located at the *Sommerquartier*. Your can find a maps here: https://feuerundflamme.xyz/kontakt/
+<br>
+The oven is currently located at the **Sommerquartier**. Your can find a map here: https://feuerundflamme.xyz/kontakt/
 
 A small donation for wood and space is always appreciated.
 <br>
