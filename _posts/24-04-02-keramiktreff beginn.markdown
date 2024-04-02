@@ -1,9 +1,7 @@
 ---
 title: ☝️✊💪 Neue KeramikTreff Saison 👍👌🤙
-date: 2024-04-02
+date: 2024-04-01
 ---
-
- 🔥🤛💥***DAS BÜNDNIS ZIEHT UM***💪⚡️👊 Am **DIENSTAG, 13.02. um 16 Uhr** werden wir in die Stadtwerkstatt umziehen. **Kommt vorbei und packt mit an!** Wir können alle Eure starken Keramikhände gebrauchen.
 
 ☝️✊💪 Am **DIENSTAG, 9.4. um 17 Uhr** beginnen wir die diesjährige ***KeramikTreff Saison*** an einem neuen Ort auf dem Gelände: vor / neben / in der **Stadtwerkstatt**, aka. Adlerhalle.
 Ab dann sind wir wieder regelmäßig vor Ort: immer Dienstags, 17 - 20 Uhr 👍👌🤙
