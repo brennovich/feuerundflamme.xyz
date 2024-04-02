@@ -7,6 +7,7 @@ date: 2024-04-01
 Ab dann sind wir wieder regelmäßig vor Ort: immer Dienstags, 17 - 20 Uhr 
 
 Liebste Keramik-Lovers,
+<br>
 **Am 9.4. beginnen wir die diesjährige KeramikTreff Saison an einem neuen Ort auf dem Gelände: vor / neben / in der Stadtwerkstatt, aka Adlerhalle.
 Ab dann sind wir wieder regelmäßig vor Ort: immer Dienstags, 17 - 20 Uhr**
 
@@ -21,12 +22,15 @@ Was bleibt ist unser Vorhaben, Orte und Momente des Gemeinschaffens, des Austaus
 Wir freuen uns darauf, den neuen Ort mit Euch einzuweihen!
 💖❤️‍🔥🔥❤️‍🔥💖
 
-Mehr Info über das Bündnis Feuer und Flamme und unsere Aktionen:
-Insta: @buendnisfeuerundflamme (https://www.instagram.com/buendnisfeuerundflamme?igsh=bmMybDZvYXd6Zms1)
+Mehr Info über das Bündnis Feuer und Flamme und unsere Aktionen:<br>
+Insta: @buendnisfeuerundflamme <br>
 Web: www.feuerundflamme.xyz
 
+<br>
+<br>
 
-ENGLISH
+**ENGLISH**
+<br>
 Dearest ceramic lovers!
 
 ☝️✊💪 **On 9.4. we start this year's KeramikTreff season at a new location on the site: in front of / next to / in the Stadtwerkstatt, aka Adlerhalle.
@@ -43,8 +47,8 @@ What remains is our intention to create places and moments of community building
 We look forward to inaugurating the new place with you!
 💖❤️‍🔥🔥❤️‍🔥💖
 
-More info about Bündnis Feuer und Flamme and our events:
-Insta: @buendnisfeuerundflamme (https://www.instagram.com/buendnisfeuerundflamme?igsh=bmMybDZvYXd6Zms1)
+More info about Bündnis Feuer und Flamme and our events:<br>
+Insta: @buendnisfeuerundflamme <br>
 Web: www.feuerundflamme.xyz
 
 
