@@ -13,13 +13,9 @@ Rathausblock Kreuzberg<br>
 Obentrautstraße 1-21<br>
 10961 Berlin
 
-### Sommerquartier: Vor der Werkhalle
+### Neues Quartier: Vor / Um / In der Stadtwerkstatt
 
-Orangener Pfeil - Ihr findet den Platz vor der Werkhalle, wenn ihr das Gelände vom Eingang Ruhlsdorferstraße betretet. Von dort folgt ihr dem Weg, bis auf der linken Seite ein großes Backsteinhaus erscheint. Vor dem Tor bauen wir unsere Tische auf.
+Die Stadtwerkstatt findet ihr auf dem Gelände hinter dem Finanzamt und der LPG am Mehringdamm in Kreuzberg. Am besten kommt man über die Ecke Mehringdamm/Obentraut Straße auf das Gelände. Von dort folgt ihr der Straße, bis auf der rechten Seite eine Halle mit einem großen Rolltor erscheint.
 
-### Winterquartier: Kiezraum
 
-Blauer Pfeil - Den Kiezraum findet ihr auch auf dem Gelände hinter dem Finanzamt und der LPG am Mehringdamm in Kreuzberg. Am besten kommt man über die Ecke Mehringdamm/Obentraut Straße auf das Gelände. Von dort folgt ihr der Straße, bis auf der rechten Seite ein gelbes Backsteingebäude erscheint. Dann biegt ihr schräg rechts in den kleinen, verwachsenen Weg ein.
-
-![2023-09-11_Dragonerareal_1500_02](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/ab8c1c10-7f8f-4550-a159-8a564ab431a0)
-
+![2024-04-02_Dragonerareal_1500_02](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/06ded182-018f-45a5-9462-2b12cb3b9b33)
