@@ -1,0 +1,58 @@
+---
+title: ☝️✊💪 Neue KeramikTreff Saison 👍👌🤙
+date: 2024-04-02
+---
+
+ 🔥🤛💥***DAS BÜNDNIS ZIEHT UM***💪⚡️👊 Am **DIENSTAG, 13.02. um 16 Uhr** werden wir in die Stadtwerkstatt umziehen. **Kommt vorbei und packt mit an!** Wir können alle Eure starken Keramikhände gebrauchen.
+
+☝️✊💪 Am **DIENSTAG, 9.4. um 17 Uhr** beginnen wir die diesjährige ***KeramikTreff Saison*** an einem neuen Ort auf dem Gelände: vor / neben / in der **Stadtwerkstatt**, aka. Adlerhalle.
+Ab dann sind wir wieder regelmäßig vor Ort: immer Dienstags, 17 - 20 Uhr 👍👌🤙
+
+Liebste Keramik-Lovers,
+**Am 9.4. beginnen wir die diesjährige KeramikTreff Saison an einem neuen Ort auf dem Gelände: vor / neben / in der Stadtwerkstatt, aka Adlerhalle.
+Ab dann sind wir wieder regelmäßig vor Ort: immer Dienstags, 17 - 20 Uhr**
+
+🔥💥⚒️🔥💥 
+Das System bleibt gleich: wir stellen euch Material, Werkstatt und Arbeitsplätze zur Verfügung und betreuen ehrenamtlich bei allen Fragen. Dafür bitten wir um eine Spende, welche die Unkosten deckt. 
+🌿🌱💸🌱🌿
+
+Der KeramikTreff ist Teil des Bündnis Feuer und Flamme und damit auch Teil des Modellprojekt Rathausblock Kreuzberg, dass die kooperative Entwicklung eines gemeinwohlorientierten Quartiers anstrebt. Damit sind wir auf einem Gelände, dass sich in ständiger Transformation befindet, und so sind auch wir in ständiger Transformation.
+Was bleibt ist unser Vorhaben, Orte und Momente des Gemeinschaffens, des Austauschs und Lernens, der gegenseitigen Unterstützung und der Großzügigkeit.
+
+🍿🍰🍬🥠
+Wir freuen uns darauf, den neuen Ort mit Euch einzuweihen!
+💖❤️‍🔥🔥❤️‍🔥💖
+
+Mehr Info über das Bündnis Feuer und Flamme und unsere Aktionen:
+Insta: @buendnisfeuerundflamme (https://www.instagram.com/buendnisfeuerundflamme?igsh=bmMybDZvYXd6Zms1)
+Web: www.feuerundflamme.xyz
+
+
+ENGLISH
+Dearest ceramic lovers!
+
+☝️✊💪 **On 9.4. we start this year's KeramikTreff season at a new location on the site: in front of / next to / in the Stadtwerkstatt, aka Adlerhalle.
+From then on we will be on site again regularly: every Tuesday, 5 - 8 pm** 👍👌🤙
+
+🔥💥⚒️🔥💥 
+The system remains the same: we provide you with materials, a workshop and workstations and provide voluntary support for all questions. We ask for a donation to cover the costs. 
+🌿🌱💸🌱🌿
+
+The KeramikTreff is part of the Bündnis Feuer und Flamme and thus also part of the Modelprojekt Rathausblock Kreuzberg, which aims to cooperatively develop a neighborhood of the common good. This means that we are on a site that is in constant transformation, and so are we.
+What remains is our intention to create places and moments of community building, exchange and learning, mutual support and generosity.
+
+🍿🍰🍬🥠
+We look forward to inaugurating the new place with you!
+💖❤️‍🔥🔥❤️‍🔥💖
+
+More info about Bündnis Feuer und Flamme and our events:
+Insta: @buendnisfeuerundflamme (https://www.instagram.com/buendnisfeuerundflamme?igsh=bmMybDZvYXd6Zms1)
+Web: www.feuerundflamme.xyz
+
+
+![photo_2024-04-02_23-38-23](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/22162624-8416-4255-bef9-b2b1e8449273)
+
+
+
+
+
