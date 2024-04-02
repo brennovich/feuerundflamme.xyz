@@ -1,10 +1,10 @@
 ---
-title: ☝️✊💪 Neue KeramikTreff Saison 👍👌🤙
+title: ☝️✊💪 KeramikTreff 2024 👍👌🤙
 date: 2024-04-01
 ---
 
-☝️✊💪 Am **DIENSTAG, 9.4. um 17 Uhr** beginnen wir die diesjährige ***KeramikTreff Saison*** an einem neuen Ort auf dem Gelände: vor / neben / in der **Stadtwerkstatt**, aka. Adlerhalle.
-Ab dann sind wir wieder regelmäßig vor Ort: immer Dienstags, 17 - 20 Uhr 👍👌🤙
+☝️✊💪 ***DER KERAMIKTREFF STARTET WIEDER*** 👍👌🤙 Am **DIENSTAG, 9.4. um 17 Uhr** beginnen wir die ***KeramikTreff Saison 2024*** an einem neuen Ort auf dem Gelände: vor / neben / in der **Stadtwerkstatt**, aka. Adlerhalle.
+Ab dann sind wir wieder regelmäßig vor Ort: immer Dienstags, 17 - 20 Uhr 
 
 Liebste Keramik-Lovers,
 **Am 9.4. beginnen wir die diesjährige KeramikTreff Saison an einem neuen Ort auf dem Gelände: vor / neben / in der Stadtwerkstatt, aka Adlerhalle.
