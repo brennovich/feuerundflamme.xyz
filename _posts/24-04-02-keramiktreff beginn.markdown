@@ -3,13 +3,13 @@ title: ☝️✊💪 KeramikTreff 2024 👍👌🤙
 date: 2024-04-01
 ---
 
-☝️✊💪 ***DER KERAMIKTREFF STARTET WIEDER*** 👍👌🤙 Am **DIENSTAG, 9.4. um 17 Uhr** beginnen wir die ***KeramikTreff Saison 2024*** an einem neuen Ort auf dem Gelände: vor / neben / in der **Stadtwerkstatt**, aka. Adlerhalle.
-Ab dann sind wir wieder regelmäßig vor Ort: immer Dienstags, 17 - 20 Uhr 
+☝️✊💪 ***DER KERAMIKTREFF STARTET WIEDER*** 👍👌🤙 Am **DIENSTAG, 9.4. um 17 Uhr** beginnen wir die ***KeramikTreff Saison 2024*** an einem neuen Ort auf dem Gelände: vor / neben / in der **Stadtwerkstatt**.
+Von da an sind wir wieder regelmäßig vor Ort: immer Dienstags, 17 - 20 Uhr.
 
 Liebste Keramik-Lovers,
 <br>
 **Am 9.4. beginnen wir die diesjährige KeramikTreff Saison an einem neuen Ort auf dem Gelände: vor / neben / in der Stadtwerkstatt, aka Adlerhalle.
-Ab dann sind wir wieder regelmäßig vor Ort: immer Dienstags, 17 - 20 Uhr**
+Von da an sind wir wieder regelmäßig vor Ort: immer Dienstags, 17 - 20 Uhr.**
 
 🔥💥⚒️🔥💥 
 Das System bleibt gleich: wir stellen euch Material, Werkstatt und Arbeitsplätze zur Verfügung und betreuen ehrenamtlich bei allen Fragen. Dafür bitten wir um eine Spende, welche die Unkosten deckt. 
@@ -34,7 +34,7 @@ Web: www.feuerundflamme.xyz
 Dearest ceramic lovers!
 
 ☝️✊💪 **On 9.4. we start this year's KeramikTreff season at a new location on the site: in front of / next to / in the Stadtwerkstatt, aka Adlerhalle.
-From then on we will be on site again regularly: every Tuesday, 5 - 8 pm** 👍👌🤙
+From now on we will be on site again regularly: every Tuesday, 5 - 8 pm** 👍👌🤙
 
 🔥💥⚒️🔥💥 
 The system remains the same: we provide you with materials, a workshop and workstations and provide voluntary support for all questions. We ask for a donation to cover the costs. 
