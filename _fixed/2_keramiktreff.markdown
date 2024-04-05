@@ -4,9 +4,9 @@ position: 2
 ---
 
 🔥❤️‍🔥💥***KERAMIK  TREFF***💥❤️‍🔥🔥 jeden **DIENSTAG** von **17.00 - 20.00 Uhr** <br> **WAS** // Offener KeramikTreff für
-Neuanfänger\*innen, Expert\*innen und alle Anderen. Wir stellen Ton, Glasuren und Werkzeuge. **WO** // vor der Werkhalle auf dem Rathausblock
+Neuanfänger\*innen, Expert\*innen und alle Anderen. Wir stellen Ton, Glasuren und Werkzeuge. **WO** // in der Stadtwerkstatt hinter dem Finanzamt
 
-### Auf dem durch Initiativen zurückeroberten Gelände des sogenannten Dragonerareals findet ein regelmäßiges und öffentliches Keramiktreffen für NachbarInnen und allen anderen BerlinerInnen statt.
+### Auf dem durch Initiativen zurückeroberten Gelände des sogenannten Dragonerareals findet ein regelmäßiges und öffentliches Keramiktreffen für NachbarInnen und alle anderen BerlinerInnen statt.
 
 Die offene Keramikwerkstatt soll ein informeller, niedrigschwelliger Ort der Nachbarschaft sein. Ein demokratischer Aktions- und Partizipations-Treffpunkt, ein Labor für und aus der Nachbarschaft. Das Angebot soll das kooperative, gemeinwohlorientierte Planungsverfahren zum Modellprojekt Rathausblock um künstlerisch geprägte Momente der Begegnung und des Austauschs ergänzen.
 
@@ -15,9 +15,9 @@ Geschirr für das gemeinsame Essen und Kochen der ZusammenKüche herstellen. Ton
 
 🌴 Es wird außerdem ab jetzt ein System geben, bei dem wir für die Teilnahme, den Ton und das Brennen jeweils Spenden vorschlagen, damit wir Verbrauchs- und Verschleißkosten decken können 💸
 
-### Der KeramikTreff findet aktuell jeden Dienstag 17 – 20 Uhr vor der Werkhalle auf dem Rathausblock statt. Für aktuelle Informationen schau Dich gern weiter auf unserer Website um.*
+### Der KeramikTreff findet aktuell jeden Dienstag 17 – 20 Uhr in der Stadtwerkstatt auf dem Rathausblock statt. Für aktuelle Informationen schau Dich gern weiter auf unserer Website um.*
 
-![2023-09-11_Dragonerareal_1500_02](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/2987a04d-aca3-4b3f-8bf8-09ed55fedb8f)
+![2024-04-02_Dragonerareal_1500_02](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/3b30e5e1-b3ab-4f60-9603-bf7f98a4a30a)
 
 
 ![221004_feuer flamme_constanze-flamme253](https://user-images.githubusercontent.com/115560099/208246049-446271e5-f6d3-48e0-b431-dfd2fae6af58.jpg)
