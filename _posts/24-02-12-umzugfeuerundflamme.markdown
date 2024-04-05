@@ -32,5 +32,5 @@ But we need your support to make it all work:
 On 13.02. at 4 pm we will move our things from the summer quarters at the Werkhalle to the Stadtwerkstatt and can use all kinds of hands!
 
 Eternal gratitude and ceramic blessings are of course guaranteed ❤️‍🔥
+![photo_2024-04-05_11-18-24](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/813d9938-1f51-4f87-846d-45c803815654)
 
-![photo_2024-02-12_14-07-01](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/a8e44d71-fbd2-4098-ad4a-bbbd8ba8c1e3)
