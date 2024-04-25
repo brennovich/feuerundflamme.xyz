@@ -3,7 +3,7 @@ title: 🥖🥐 Backen 🍞🫓🥨
 date: 2024-04-24
 ---
 
-🎉Am **SONNTAG, 28. April** werden wir den ***OFEN ANSCHMEISSEN***🎉
+🎉Am **SONNTAG, 28. April** werden wir den ***BACKOFEN*** anheizen🎉
 Wir beginnen **um 12 Uhr** mit dem Anheizen und Räuchern.
 Bringt eure **Kreationen** und **Experimente** mit! 🥖🥐🍞🫓🥨
 
