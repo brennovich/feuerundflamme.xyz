@@ -1,6 +1,6 @@
 ---
 title: 🥖🥐 Backen 🍞🫓🥨
-date: 2024-04-25
+date: 2024-04-24
 ---
 
 **Am SONNTAG, 28. April werden wir den Ofen wieder anheizen**🎉🎉
