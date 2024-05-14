@@ -3,7 +3,7 @@ title: 🔥✊🔥 Nourishing Resistance 🔥❤️‍🔥🔥
 date: 2024-05-14
 ---
 
-**MONDAY 20th MAY** Communal cooking session rooted in community care and joy! To connect, reflect & solidify our solidarity! 🔥✊🔥 ***NOURISHING RESISTANCE*** 🔥❤️‍🔥🔥 from **11 - 2 pm** by **Ayscha Omar**
+**MONDAY 20th MAY** Communal cooking session rooted in community care and joy! To connect, reflect & solidify our solidarity! 🔥✊🔥 ***NOURI SHING RESIS TANCE*** 🔥❤️‍🔥🔥 from **11 - 2 pm** by **Ayscha Omar**
 
 Nourishing resistance is a regular Collective cooking session, rooted in community care & joy, to connect, reflect, learn & eat delicious food and solidify our solidarity! 
 
