@@ -7,7 +7,7 @@ date: 2024-05-14
 
 **EN**
 <br>
-**<a href="https://www.instagram.com/smells__like">Smells like</a> and <a href="https://www.instagram.com/ayschotthesheriff/">Ayscha Omar</a>, want to invite you to an upcoming community cooking event  on 20th May at 11am.**
+**<a href="https://www.instagram.com/smells__like"target="_blank">Smells like</a> and <a href="https://www.instagram.com/ayschotthesheriff/">Ayscha Omar</a>, want to invite you to an upcoming community cooking event  on 20th May at 11am.**
 
 Nourishing resistance is a regular Collective cooking session, rooted in community care & joy, to connect, reflect, learn & eat delicious food and solidify our solidarity!
 
