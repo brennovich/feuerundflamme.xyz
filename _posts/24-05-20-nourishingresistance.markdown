@@ -13,11 +13,11 @@ Nourishing resistance is a regular Collective cooking session, rooted in communi
 
 We will gather on a regular basis to cook and eat together! Each session will be dedicated to one dish that we will prepare together, led by a cook that will guide us through the cooking process.
 
-For our first cooking session we will cook & feast on vegetarian *ASHAK - afghan dumplings* 🥟 - led by our fave community cook <a href="[https://www.instagram.com/ayschotthesheriff/]()">Ayscha Omar</a>.
+For our first cooking session we will cook & feast on vegetarian *ASHAK - afghan dumplings* 🥟 - led by our fave community cook <a href="https://www.instagram.com/ayschotthesheriff/">Ayscha Omar</a>. 
 
 Please feel free to bring a dish, drink or snack that we can eat while we cook together!  
 
-Tickets are a suggested donation of 6 euros per person, <a href="[(https://www.eventbrite.de/e/nourishing-resistance-tickets-904347576947?aff=oddtdtcreator)]()">please buy in advance via the donation ticket link here!</a>
+Tickets are a suggested donation of 6 euros per person, <a href="https://www.eventbrite.de/e/nourishing-resistance-tickets-904347576947?aff=oddtdtcreator" ­target="_blank"­>please buy in advance via the donation ticket link here!</a>
 
 
 <br>
