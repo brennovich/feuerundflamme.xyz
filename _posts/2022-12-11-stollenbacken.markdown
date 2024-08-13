@@ -3,7 +3,7 @@ title: 🎄🔥✨ Stollenbacken ✨🔥🎄
 date: 2022-12-11
 ---
 
-🎄🔥✨***STOLLEN  BACKEN***✨🔥🎄 diesen **SONNTAG** den **11.12. ab 14 Uhr** // **WAS** // Ab 14 Uhr Backen wir unsere selbstmitgebrachten Stollen. Gerne kann auch etwas Anderes gebacken werden. // **WO** // im Backhauswagen auf dem Dragonerareal.
+🎄🔥✨***STOLLEN  BACKEN***✨🔥🎄 diesen **SONNTAG** den **11.12.2022 ab 14 Uhr** // **WAS** // Ab 14 Uhr Backen wir unsere selbstmitgebrachten Stollen. Gerne kann auch etwas Anderes gebacken werden. // **WO** // im Backhauswagen auf dem Dragonerareal.
 
 Am Sonntag den 11.12 treffen wir uns wieder zum Backen am Backhauswagen. Da auch der dritte Advent sein wird, ist an dem Tag der perfekte Moment um Stollen zu backen. Stollen sollte man nämlich mindestens eine Woche ziehen lassen bevor man ihn serviert. Zu Weihnachten zum Beispiel.
 Kramt also eure Stollenrezepte raus, fragt eure Omas, fragt eure BäckerInnen aus der Heimat, zimmert euch was bei Google zusammen und bringt eure Teigrohlinge zum Backen um 14 Uhr. (Der Ofen wird ab ca 12 Uhr angefeuert).
