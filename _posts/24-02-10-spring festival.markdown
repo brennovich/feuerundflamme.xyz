@@ -3,7 +3,7 @@ title: 💫🐉🥠Chinese New Year🐲🥟✨
 date: 2024-02-06
 ---
 
-Spring Festival aka 💫🐉🥠***Chinese New Year***🐲🥟✨ is coming up next **SATURDAY 10. FEBRUARY** - a perfect excuse to **fire up the oven** and welcome in the Year of the Dragon! Starting the oven at 11 am & starting to bake at around 2 - 3 pm.
+Spring Festival aka 💫🐉🥠***CHINESE NEW YEAR***🐲🥟✨ is coming up next **SATURDAY 10. FEB 2024** - a perfect excuse to **fire up the oven** and welcome the Year of the Dragon! Starting the oven at 11 am & starting to bake at around 2 - 3 pm.
 
 **Spring Festival aka Chinese New Year** is coming up next Saturday, 10. February - a perfect excuse to **fire up the oven** and welcome in the Year of the Dragon! Starting the oven at 11 am & starting to bake at around 2 - 3 pm.
 <br>
