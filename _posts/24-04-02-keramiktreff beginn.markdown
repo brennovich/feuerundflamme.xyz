@@ -3,8 +3,8 @@ title: ☝️✊💪 KeramikTreff 2024 👍👌🤙
 date: 2024-04-01
 ---
 
-☝️✊💪 ***DER KERAMIKTREFF STARTET WIEDER*** 👍👌🤙 Am **DIENSTAG, 9.4. um 17 Uhr** beginnen wir die ***KeramikTreff Saison 2024*** an einem neuen Ort auf dem Gelände: vor / neben / in der **Stadtwerkstatt**.
-Von da an sind wir wieder regelmäßig vor Ort: immer Dienstags, 17 - 20 Uhr.
+☝️✊💪 der ***KERAMIKTREFF*** 👍👌🤙 startet wieder am **DIENSTAG, 9.4.2024 um 17 Uhr** beginnen wir die ***SAISON 2024*** an einem neuen Ort auf dem Gelände: vor / neben / in der **Stadtwerkstatt**.
+Von da an sind wir wieder regelmäßig vor Ort: **immer Dienstags, 17 - 20 Uhr**
 
 Liebste Keramik-Lovers,
 <br>
