@@ -3,7 +3,7 @@ title: 🔥🍕TDDs Apropos Apéro and book reading🍕🔥
 date: 2023-07-16
 ---
 
-***BACKHAUS WAGEN & TDD***  laden am **SONNTAG 16. Juli** 2023 **ab 16 Uhr** zu 🔥🌪🍕Pizette, chats and drinks🍕🌪🔥 ein. Dabei präsentiert TDD ihr Buch **flavours & friends**
+***BACKHAUS WAGEN & TDD***  laden am **SONNTAG 16. Juli 2023 ab 16 Uhr** zu 🔥🌪🍕Pizette, chats and drinks🍕🌪🔥 ein. Dabei präsentiert TDD ihr Buch **flavours & friends**
 
 TDDs Apropos Apéro und Buchlesung fanden am Backhauswagen statt ☀️ Mit Pizzette, Chats, Getränken und der Zweitauflage von „flavor & friends“!
 
