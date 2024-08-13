@@ -4,7 +4,7 @@ date: 2024-02-12
 ---
 
 
- 🔥🤛💥***DAS BÜNDNIS ZIEHT UM***💪⚡️👊 Am **DIENSTAG, 13.02. um 16 Uhr** werden wir in die Stadtwerkstatt umziehen. **Kommt vorbei und packt mit an!** Wir können alle Eure starken Keramikhände gebrauchen.
+ 🔥🤛💥***DAS BÜNDNIS ZIEHT UM***💪⚡️👊 Am **DIENSTAG, 13.02.2024 um 16 Uhr** werden wir in die Stadtwerkstatt umziehen. **Kommt vorbei und packt mit an!** Wir können alle Eure starken Koch- und Keramikhände gebrauchen.
 
 Liebste Keramik-Freunde, 
 Nach vielen Gesprächen und Überlegungen in der Winterzeit haben wir nun endlich Neuigkeiten für alle KeramikTreff-Fans.
