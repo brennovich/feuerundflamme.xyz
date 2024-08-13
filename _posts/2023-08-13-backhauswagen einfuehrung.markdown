@@ -3,7 +3,7 @@ title: 🥖🍞🔥Einführung Backhauswagen🔥🥐🥨
 date: 2023-08-13
 ---
 
-Am **Sonntag** den **13.August ab 12 Uhr** findet die nächste <br>
+Am **Sonntag** den **13.August 2023 ab 12 Uhr** findet die nächste <br>
 🥖🍞🔥***BACKHAUS*** <br> 
 ***WAGEN***🔥🥐🥨 <br>
 ***EINFÜHRUNG*** statt. Gemeinsam heizen wir den Ofen auf die richtige Temperatur an und BACKEN🔥🔥!
