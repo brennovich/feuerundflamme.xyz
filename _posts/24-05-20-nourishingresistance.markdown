@@ -3,7 +3,7 @@ title: 🔥✊🔥 Nourishing Resistance 🔥❤️‍🔥🔥
 date: 2024-05-14
 ---
 
-**MONDAY 20th MAY** Communal cooking session rooted in community care and joy! To connect, reflect & solidify our solidarity! 🔥✊🔥 ***NOURISHING RESISTANCE*** 🔥❤️‍🔥🔥 from **11 - 2 pm** by **Smells Like & Ayscha Omar**
+**MONDAY 20th MAY 2024** Communal cooking session rooted in community care and joy! To connect, reflect & solidify our solidarity! 🔥✊🔥 ***NOURISHING RESISTANCE*** 🔥❤️‍🔥🔥 from **11 - 2 pm** by **Smells Like & Ayscha Omar**
 
 **EN**
 <br>
