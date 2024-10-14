@@ -31,4 +31,4 @@ Eine Veranstaltungsreihe des Bündnis Feuer&Flamme für ein Areal in Transformat
 
 ### Mitglieder des Bündnisses und Kooperationspartner*innen
 
-Marius Busch, Yann Colonna, Brenno Costa, Frederic Erdl, Paula Erstmann, Mascha Fehse, Mona Horst, Jonas Kang, Elisa Klosterkötter, Mio Kojima, Emily Krüger, Andries de Lange, Josa Leschner, Olga Monina, Ayscha Omar, Jasmine Parsley, Miranda Rigby, Helene Rehahn, Tomma Suki, TDD, Rebecca Wall, Xijing Xu
+Marius Busch, Yann Colonna, Brenno Costa, Frederic Erdl, Paula Erstmann, Mascha Fehse, Mona Horst, Jonas Kang, Elisa Klosterkötter, Mio Kojima, Emily Krüger, Andries de Lange, Josa Leschner, Melina Matzanke, Olga Monina, Ayscha Omar, Jasmine Parsley, Miranda Rigby, Helene Rehahn, Tomma Suki, TDD, Rebecca Wall, Xijing Xu
