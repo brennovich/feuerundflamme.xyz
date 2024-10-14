@@ -3,7 +3,7 @@ title: 👀🔥🐾Mapping Mehringplatz👣🔥👀
 date: 2023-08-01
 ---
 
-Am **MITTWOCH 02. AUG 2023** um **16.30 Uhr** findet am **Mehringplatz** der Workshop  👀🔥🐾 ***MAPPING MEHRINGPLATZ*** 👣🔥👀 statt.  Mit Hilfe von Tonabdrücken entdecken wir den Mehringplatz neu und verwandeln ihn gleichzeitig in Gegenstände für den alltäglichen Gebrauch.
+Am **MITTWOCH 02. AUG 2023** um **16.30 Uhr** findet am **Mehringplatz** der Workshop  👀🔥🐾 ***MAPPING MEHRING PLATZ*** 👣🔥👀 statt.  Mit Hilfe von Tonabdrücken entdecken wir den Mehringplatz neu und verwandeln ihn gleichzeitig in Gegenstände für den alltäglichen Gebrauch.
 
 🌟 Freut euch auf ein einzigartiges Erlebnis im Herzen der Stadt! Paula Erstmann und Yann Colonna präsentieren im Rahmen des UP TustFUNd ihre gemeinsam entwickelten künstlerischen Formate, die sich mit den faszinierenden Erinnerungspraktiken des urbanen Alltags beschäftigen. 🔥
 
