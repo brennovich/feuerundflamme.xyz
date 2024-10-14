@@ -3,8 +3,8 @@ title: 🍁🧦🔥FLOHMARKT🍁🧦🔥
 date: 2024-11-17
 ---
 
-On **SUNDAY 17 NOVEMBER 2024** com for snacks & drinks - es gibt Zeug & Keramik
- 🍁🧦🔥 ***FLOHMARKT*** 🍁🧦🔥 from **11 am - 5 pm** **BURNT SUNDAY**
+On **SUNDAY 17 NOVEMBER 2024** come for snacks & drinks - es gibt Zeug & Keramik auf dem
+ 🍁🧦🔥 ***FLOHMARKT*** 🍁🧦🔥 from / ab **11 am - 5 pm** **BURNT SUNDAY**
 
 **DE**
 
