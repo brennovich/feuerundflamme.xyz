@@ -1,5 +1,5 @@
 ---
-title: 🍁🧦🔥FLOHMARKT🍁🧦🔥 
+title: 🍁🧦🔥FLOHMARKT🍁🧦🔥
 date: 2024-11-17
 ---
 

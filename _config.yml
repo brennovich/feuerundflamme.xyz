@@ -33,6 +33,8 @@ collections:
     output: true
     permalink: /:name
 
+future: true
+
 # Build settings
 theme:
 plugins:
