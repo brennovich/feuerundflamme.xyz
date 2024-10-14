@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-### Bündnis Feuerundflamme
+### Bündnis Feuer & Flamme
 
 Das Bündnis Feuer&Flamme engagiert sich am Dragonerareal mit Workshops rund um den offenen Keramiktreff, Back- und Räucherhappenings am Backhauswagen und Einladungen zum gemeinsamen Kochen und Essen mit der Zusammenküche.
 
@@ -25,10 +25,10 @@ Die ZusammenKüche ist ein Ort und eine Praxis, welche die Bedürfnisse der jetz
 
 ### feuerexperimente4u
 
-Eine Veranstaltungsreihe des Bündnis Feuer&Flamme für ein Areal in Transformation. Künstlerische Leitung: Paula Erstmann, Mascha Fehse, Rebecca Wall; mit Beiträgen von: Johanna Beyer, Yann Colonna, Brenno Costa, Johanna Dehio, Frederic Erdl, Constanze Flamme, Mona Horst, Jonas Kang, Mio Kojima, Emily Krüger, Olga Monina, Josa Leschner, Cornelia Nagel
+Eine Veranstaltungsreihe des Bündnis Feuer&Flamme für ein Areal in Transformation. Künstlerische Leitung: Paula Erstmann, Mascha Fehse, Rebecca Wall; mit Beiträgen von: Johanna Beyer, Yann Colonna, Brenno Costa, Johanna Dehio, Frederic Erdl, Constanze Flamme, Mona Horst, Andries de Lange, Jonas Kang, Mio Kojima, Emily Krüger, Olga Monina, Josa Leschner, Cornelia Nagel
 
-**Laufzeit**: Juni – Oktober 2022. Teil der Initiative DRAUSSENSTADT, gefördert von der Senatsverwaltung für Kultur und Europa sowie der Stiftung für Kulturelle Weiterbildung und Kulturberatung.
+Laufzeit: Juni – Oktober 2022. Teil der Initiative DRAUSSENSTADT, gefördert von der Senatsverwaltung für Kultur und Europa sowie der Stiftung für Kulturelle Weiterbildung und Kulturberatung.
 
-### Mitglieder des Bündnisses und Kooperationspartner*innen
+### Mitglieder und Kooperationspartner*innen des Bündnisses Feuer & Flamme
 
-Marius Busch, Yann Colonna, Brenno Costa, Frederic Erdl, Paula Erstmann, Mascha Fehse, Mona Horst, Jonas Kang, Elisa Klosterkötter, Mio Kojima, Emily Krüger, Andries de Lange, Josa Leschner, Melina Matzanke, Olga Monina, Ayscha Omar, Jasmine Parsley, Miranda Rigby, Helene Rehahn, Tomma Suki, TDD, Rebecca Wall, Xijing Xu
+Marius Busch, Brenno Costa, Paula Erstmann, Mascha Fehse, Kim Gundlach, Mona Horst, Jonas Kang, Elisa Klosterkötter, Mio Kojima, Emily Krüger, Josa Leschner, Melina Matzanke, Olga Monina, Ayscha Omar, Jasmine Parsley, Miranda Rigby, Helene Rehahn, Tomma Suki, TDD, Rebecca Wall, Xijing Xu
