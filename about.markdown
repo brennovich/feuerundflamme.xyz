@@ -31,4 +31,4 @@ Laufzeit: Juni – Oktober 2022. Teil der Initiative DRAUSSENSTADT, gefördert v
 
 ### Mitglieder und Kooperationspartner*innen des Bündnisses Feuer & Flamme
 
-Marius Busch, Brenno Costa, Paula Erstmann, Mascha Fehse, Kim Gundlach, Mona Horst, Jonas Kang, Elisa Klosterkötter, Mio Kojima, Emily Krüger, Josa Leschner, Melina Matzanke, Olga Monina, Ayscha Omar, Jasmine Parsley, Miranda Rigby, Helene Rehahn, Tomma Suki, TDD, Rebecca Wall, Xijing Xu
+Marius Busch, Brenno Costa, Paula Erstmann, Mascha Fehse, Kim Gundlach, Mona Horst, Jonas Kang, Elisa Klosterkötter, Mio Kojima, Emily Krüger, Josa Leschner, Melina Matzanke, Olga Monina, Ayscha Omar, Jasmine Parsley, Miranda Rigby, Helene Rehahn, Tomma Suki, TDD (Gülsüm Güler, İnci Güler), Rebecca Wall, Xijing Xu
