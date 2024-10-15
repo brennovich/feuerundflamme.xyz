@@ -25,3 +25,6 @@ Bündnis Feuer und Flamme is organizing a FLEEMARKET in the StadtWERKSTATT on NO
 You can have a stand, there will be ceramic actions and the oven will be hot and serving pizza!
 
 Please feel free to join and please spread the word!
+
+![241011_flohmarkt_poster (2)](https://github.com/user-attachments/assets/ec615d8f-0e72-4368-ad5b-2ffdc2e10976)
+
