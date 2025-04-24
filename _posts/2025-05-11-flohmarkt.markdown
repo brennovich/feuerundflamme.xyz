@@ -3,7 +3,7 @@ title: 🌸☀️🔥FLOHMARKT🔥☀️🌸
 date: 2025-05-11
 ---
 
-On **SUNDAY 11 MAY 2025** there will be ceramic actions and the oven will be hot and serving pizza!
+On **SUNDAY 11 MAY 2025** there will be **ceramic** 🏺 actions and the oven will be hot and serving **pizza** 🍕
  🌸🍃 ***FLOHMARKT*** 🍃🌸 from / ab **11 am - 5 pm**
 
 **DE**
