@@ -1,4 +1,4 @@
-@import 'feuer/mixin/stroke';
+@use 'feuer/mixin/stroke' as *;
 
 @mixin heading($color, $stroke-color, $thickness: 2px) {
   text-transform: uppercase;

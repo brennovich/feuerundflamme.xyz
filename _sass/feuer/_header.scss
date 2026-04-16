@@ -1,4 +1,6 @@
-@import 'feuer/mixin/heading';
+@use 'feuer/palette' as *;
+@use 'feuer/mixin/heading' as *;
+@use 'feuer/mixin/stroke' as *;
 
 $feuer-logo-color: #e3b44e;
 $feuer-logo-stroke-color: #d44290;

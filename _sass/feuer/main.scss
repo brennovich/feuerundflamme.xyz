@@ -1,11 +1,10 @@
-@import
-  'feuer/reset',
-  'feuer/palette',
-  'feuer/typography',
-  'feuer/theme',
-  'feuer/header',
-  'feuer/footer',
-  'feuer/tile',
-  'feuer/event',
-  'feuer/gallery',
-  'feuer/page';
+@use 'feuer/reset';
+@use 'feuer/palette';
+@use 'feuer/typography';
+@use 'feuer/theme';
+@use 'feuer/header';
+@use 'feuer/footer';
+@use 'feuer/tile';
+@use 'feuer/event';
+@use 'feuer/gallery';
+@use 'feuer/page';

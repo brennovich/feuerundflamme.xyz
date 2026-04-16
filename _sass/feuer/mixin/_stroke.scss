@@ -1,3 +1,5 @@
+@use 'sass:math';
+
 @mixin stroke($width, $color) {
   $width: $width + 0;
   $shadow: 0 0 0 transparent;
@@ -11,8 +13,8 @@
 
     @for $r from 1 through $w {
       @for $c from 1 through $w {
-        $x: $c - ceil($w / 2);
-        $y: $r - ceil($w / 2);
+        $x: $c - math.ceil(math.div($w, 2));
+        $y: $r - math.ceil(math.div($w, 2));
 
         $shadow: #{$shadow}, #{$x}px #{$y}px 0 $color;
       }

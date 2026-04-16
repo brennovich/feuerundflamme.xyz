@@ -1,3 +1,7 @@
+@use 'sass:color';
+@use 'feuer/palette' as *;
+@use 'feuer/mixin/heading' as *;
+
 .event {
   background: $blau;
   background: radial-gradient(90deg, $blau 0%, #fff 100%);
@@ -12,7 +16,7 @@
     text-align: center;
     font-size: 4vw;
     letter-spacing: .1em;
-    @include heading(darken($blau, 30%), lighten($page-title-stroke-color, 20%));
+    @include heading(color.adjust($blau, $lightness: -30%), color.adjust($page-title-stroke-color, $lightness: 20%));
   }
 
   &> .back {

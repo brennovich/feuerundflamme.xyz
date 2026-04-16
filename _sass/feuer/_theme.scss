@@ -1,3 +1,5 @@
+@use 'feuer/palette' as *;
+
 body {
   background: $bg;
   background: linear-gradient(90deg, $bg 0%, $bg-alt 100%);

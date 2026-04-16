@@ -1,3 +1,5 @@
+@use 'feuer/palette' as *;
+
 .tile {
   display: grid;
   grid-gap: 1.5vw;
@@ -108,4 +110,3 @@
     margin-top: 15vw;
   }
 }
-

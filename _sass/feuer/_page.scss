@@ -1,3 +1,6 @@
+@use 'feuer/palette' as *;
+@use 'feuer/mixin/heading' as *;
+
 .page {
   margin: 1em 0;
   padding: 3vw 5vw;
