@@ -3,15 +3,18 @@
   {%- assign page_paths = site.header_pages | default: default_paths -%}
   {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
-  {%- if site.posts.size > 0 -%}
-    {%- for post in site.posts -%}
-      {% if post.excerpt contains '<img' %}
-      {% else %}
+  {%- assign today = site.time | date: "%Y-%m-%d" -%}
+  {%- for post in site.posts -%}
+    {%- assign post_date = post.date | date: "%Y-%m-%d" -%}
+    {%- if post_date >= today -%}
+      {%- unless post.excerpt contains '<img' -%}
         {%- assign banner = post.excerpt -%}
-        {% break %}
-      {% endif %}
-    {%- endfor -%}
+        {%- break -%}
+      {%- endunless -%}
+    {%- endif -%}
+  {%- endfor -%}
 
+  {%- if banner -%}
     <marquee>
       {{ banner }}
     </marquee>
