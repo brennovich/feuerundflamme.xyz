@@ -38,4 +38,3 @@ Bitte bringt ein Gericht, ein Getränk oder einen Snack mit, welches wir beim ge
 
 
 
-![nourishing resistance](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/a4bb7172-4926-4ba9-8e9e-e8a63b4c10b1)

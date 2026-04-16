@@ -14,6 +14,44 @@
         <article>
           {{ content | remove: page.excerpt }}
         </article>
+
+        {%- if page.collection == 'fixed' -%}
+          {%- assign source_name = page.path | split: '/' | last | remove: '.markdown' -%}
+          {%- assign images_path = '/assets/images/fixed/' | append: source_name | append: '/' -%}
+        {%- else -%}
+          {%- assign source_name = page.path | split: '/' | last | remove: '.markdown' -%}
+          {%- assign images_path = '/assets/images/posts/' | append: source_name | append: '/' -%}
+        {%- endif -%}
+
+        {%- assign all_images = site.static_files | where_exp: "file", "file.path contains images_path" -%}
+        {%- assign source_images = "" | split: "" -%}
+        {%- for img in all_images -%}
+          {%- unless img.path contains '-small.' or img.path contains '-medium.' or img.path contains '-large.' -%}
+            {%- assign source_images = source_images | push: img -%}
+          {%- endunless -%}
+        {%- endfor -%}
+        {%- assign source_images = source_images | sort: "path" -%}
+
+        {%- if source_images.size > 0 -%}
+          <figure class="gallery">
+            <ul>
+              {%- for image in source_images -%}
+                <li>
+                  {%- assign image_path = image.path | remove_first: '/' -%}
+                  {%- assign image_number = forloop.index -%}
+                  {%- assign image_caption = page.gallery.images[image_number] -%}
+                  {%- include responsive_image.liquid path=image_path alt=page.title -%}
+                  {%- if image_caption -%}
+                    <figcaption>{{ image_caption }}</figcaption>
+                  {%- endif -%}
+                </li>
+              {%- endfor -%}
+            </ul>
+            {%- if page.gallery.description -%}
+              <figcaption>{{ page.gallery.description }}</figcaption>
+            {%- endif -%}
+          </figure>
+        {%- endif -%}
       </section>
     </main>
 

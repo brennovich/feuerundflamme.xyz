@@ -14,10 +14,11 @@ const Gallery = {
 		const items = document.querySelectorAll(this.element + " li");
 		items.forEach((item) => {
 			const link = document.createElement("a");
-			const img = item.firstChild;
+			const img = item.querySelector("img");
+			const content = item.querySelector("picture") || img;
 
 			link.setAttribute("href", img.getAttribute("src"));
-			link.appendChild(img)
+			link.appendChild(content);
 			item.appendChild(link);
 
 			link.addEventListener("click", this.view, false);
@@ -27,7 +28,7 @@ const Gallery = {
 		ev.preventDefault();
 
 		const backdrop = document.querySelector(".backdrop");
-		const img = ev.currentTarget.firstChild;
+		const img = ev.currentTarget.querySelector("img");
 
 		if (img.classList.contains("focus")) {
 			Gallery.hide()
@@ -43,6 +44,7 @@ const Gallery = {
 		const backdrop = document.querySelector(".backdrop");
 		const img = document.querySelector("img.focus");
 
+		if (!img) return;
 		img.classList.toggle("focus");
 		backdrop.classList.toggle("focus");
 

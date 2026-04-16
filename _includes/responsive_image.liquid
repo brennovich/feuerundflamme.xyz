@@ -1,0 +1,40 @@
+{%- comment -%}
+  Responsive image include
+
+  Parameters:
+  - path: Relative path to source image (e.g., "assets/images/posts/flohmarkt/cover.jpg")
+  - alt: Alt text for accessibility
+  - context: "tile" for homepage tiles, defaults to full-size for event pages
+{%- endcomment -%}
+
+{%- assign original_url = include.path | relative_url -%}
+
+{%- if include.path contains '.gif' -%}
+  <img src="{{ original_url }}" alt="{{ include.alt }}" loading="lazy">
+
+{%- elsif include.context == 'tile' -%}
+  {%- assign path_without_ext = include.path | remove: '.jpg' | remove: '.jpeg' | remove: '.png' -%}
+  {%- assign small_webp = path_without_ext | append: '-small.webp' | relative_url -%}
+  {%- assign small_jpg = path_without_ext | append: '-small.jpg' | relative_url -%}
+  {%- assign medium_webp = path_without_ext | append: '-medium.webp' | relative_url -%}
+  {%- assign medium_jpg = path_without_ext | append: '-medium.jpg' | relative_url -%}
+
+  <picture>
+    <source srcset="{{ small_webp }} 1x, {{ medium_webp }} 2x" type="image/webp">
+    <source srcset="{{ small_jpg }} 1x, {{ medium_jpg }} 2x" type="image/jpeg">
+    <img src="{{ small_jpg }}" alt="{{ include.alt }}" loading="lazy">
+  </picture>
+
+{%- else -%}
+  {%- assign path_without_ext = include.path | remove: '.jpg' | remove: '.jpeg' | remove: '.png' -%}
+  {%- assign medium_webp = path_without_ext | append: '-medium.webp' | relative_url -%}
+  {%- assign medium_jpg = path_without_ext | append: '-medium.jpg' | relative_url -%}
+  {%- assign large_webp = path_without_ext | append: '-large.webp' | relative_url -%}
+  {%- assign large_jpg = path_without_ext | append: '-large.jpg' | relative_url -%}
+
+  <picture>
+    <source srcset="{{ medium_webp }} 1x, {{ large_webp }} 2x" type="image/webp">
+    <source srcset="{{ medium_jpg }} 1x, {{ large_jpg }} 2x" type="image/jpeg">
+    <img src="{{ medium_jpg }}" alt="{{ include.alt }}" loading="lazy">
+  </picture>
+{%- endif -%}

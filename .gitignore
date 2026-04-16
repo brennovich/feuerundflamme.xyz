@@ -3,3 +3,11 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Node.js
+node_modules/
+
+# Processed images (generated at build time)
+assets/images/**/*-small.*
+assets/images/**/*-medium.*
+assets/images/**/*-large.*

@@ -1,6 +1,8 @@
 ---
 title: 🔥❤️‍🔥💥 Keramiktreff 💥❤️‍🔥🔥
 position: 2
+gallery:
+  description: Fotos von Constanze Flamme
 ---
 
 🔥❤️‍🔥💥***KERAMIK  TREFF***💥❤️‍🔥🔥 jeden **DIENSTAG** von **17.00 - 20.00 Uhr** <br> **WAS** // Offener KeramikTreff für
@@ -16,11 +18,3 @@ Geschirr für das gemeinsame Essen und Kochen der ZusammenKüche herstellen. Ton
 🌴 Es wird außerdem ab jetzt ein System geben, bei dem wir für die Teilnahme, den Ton und das Brennen jeweils Spenden vorschlagen, damit wir Verbrauchs- und Verschleißkosten decken können 💸
 
 ### Der KeramikTreff findet aktuell jeden Dienstag 17 – 20 Uhr in der Stadtwerkstatt auf dem Rathausblock statt. Für aktuelle Informationen schau Dich gern weiter auf unserer Website um.*
-
-![2024-04-02_Dragonerareal_1500_02](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/3b30e5e1-b3ab-4f60-9603-bf7f98a4a30a)
-
-
-![221004_feuer flamme_constanze-flamme253](https://user-images.githubusercontent.com/115560099/208246049-446271e5-f6d3-48e0-b431-dfd2fae6af58.jpg)
-![221004_feuer flamme_constanze-flamme265(1)](https://user-images.githubusercontent.com/115560099/208246050-bef93390-ba12-49c8-bed3-420424f5fe07.jpg)
-![221004_feuer flamme_constanze-flamme267](https://user-images.githubusercontent.com/115560099/208246055-98f761f1-14a8-4daf-acf0-ec44134737cd.jpg)
-Fotos von Constanze Flamme

@@ -18,18 +18,52 @@
           {%- assign fixed = site.fixed | sort: 'position' -%}
 
           {%- for post in fixed -%}
+            {%- assign source_name = post.path | split: '/' | last | remove: '.markdown' -%}
+            {%- assign images_path = '/assets/images/fixed/' | append: source_name | append: '/' -%}
+            {%- assign post_images = site.static_files | where_exp: "file", "file.path contains images_path" -%}
+            {%- assign source_images = "" | split: "" -%}
+            {%- for img in post_images -%}
+              {%- unless img.path contains '-small.' or img.path contains '-medium.' or img.path contains '-large.' -%}
+                {%- assign source_images = source_images | push: img -%}
+              {%- endunless -%}
+            {%- endfor -%}
+
             <li>
-              <a href="{{ post.url | relative_url }}">{{ post.excerpt }}</a>
+              {%- if source_images.size > 0 -%}
+                {%- assign first_image = source_images | sort: "path" | first -%}
+                <a href="{{ post.url | relative_url }}" class="media">
+                  {%- assign img_path = first_image.path | remove_first: '/' -%}
+                  {%- include responsive_image.liquid path=img_path alt=post.title context="tile" -%}
+                </a>
+              {%- else -%}
+                <a href="{{ post.url | relative_url }}">{{ post.excerpt }}</a>
+              {%- endif -%}
             </li>
           {%- endfor -%}
         {%- endif -%}
 
         {%- if site.posts.size > 0 -%}
           {%- for post in site.posts -%}
+            {%- assign source_name = post.path | split: '/' | last | remove: '.markdown' -%}
+            {%- assign images_path = '/assets/images/posts/' | append: source_name | append: '/' -%}
+            {%- assign post_images = site.static_files | where_exp: "file", "file.path contains images_path" -%}
+            {%- assign source_images = "" | split: "" -%}
+            {%- for img in post_images -%}
+              {%- unless img.path contains '-small.' or img.path contains '-medium.' or img.path contains '-large.' -%}
+                {%- assign source_images = source_images | push: img -%}
+              {%- endunless -%}
+            {%- endfor -%}
+
             <li>
-              <a href="{{ post.url | relative_url }}" class="{%- if post.excerpt contains "<img"-%}media{%- endif -%}">
-                {{ post.excerpt }}
-              </a>
+              {%- if source_images.size > 0 -%}
+                {%- assign first_image = source_images | sort: "path" | first -%}
+                <a href="{{ post.url | relative_url }}" class="media">
+                  {%- assign img_path = first_image.path | remove_first: '/' -%}
+                  {%- include responsive_image.liquid path=img_path alt=post.title context="tile" -%}
+                </a>
+              {%- else -%}
+                <a href="{{ post.url | relative_url }}">{{ post.excerpt }}</a>
+              {%- endif -%}
             </li>
           {%- endfor -%}
         {%- endif -%}

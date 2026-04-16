@@ -52,7 +52,6 @@ Insta: @buendnisfeuerundflamme <br>
 Web: www.feuerundflamme.xyz
 
 
-![photo_2024-04-02_23-38-23](https://github.com/brennovich/feuerundflamme.xyz/assets/115560099/22162624-8416-4255-bef9-b2b1e8449273)
 
 
 
