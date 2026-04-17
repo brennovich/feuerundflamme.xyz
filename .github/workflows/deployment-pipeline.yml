@@ -28,10 +28,12 @@ jobs:
       - id: process-images
         run: npm run process-images
       - uses: actions/configure-pages@v5
-      - uses: actions/jekyll-build-pages@v1
+      - uses: ruby/setup-ruby@v1
         with:
-          source: ./
-          destination: ./_site
+          ruby-version: '3.4'
+          bundler-cache: true
+      - id: build
+        run: bundle exec jekyll build
       - uses: actions/upload-pages-artifact@v3
 
   deploy:
