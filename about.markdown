@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: /about/
+layout: default
 ---
 
 ### Bündnis Feuer & Flamme

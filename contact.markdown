@@ -1,6 +1,7 @@
 ---
 title: Kontakt
 permalink: /kontakt/
+layout: default
 ---
 
 ### E-Mail

@@ -1,3 +1,5 @@
+@use 'feuer/palette' as *;
+
 .gallery {
   ul {
     list-style: none;
@@ -34,6 +36,12 @@
       z-index: 30;
       transition: none;
     }
+  }
+
+  figcaption {
+    font-style: italic;
+    font-size: .8em;
+    color: $fg-low-contrast;
   }
 }
 
