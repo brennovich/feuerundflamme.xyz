@@ -25,12 +25,21 @@ Der KeramikTreff im Rathausblock ist ein informeller, niedrigschwelliger Ort des
 Die ZusammenKüche ist ein Ort und eine Praxis, welche die Bedürfnisse der jetzigen und künftigen Mieterinnen und Nachbarinnen erforscht und sie dazu ermutigt, Essen als ästhetisches Mittel der Kommunikation und des Austauschs zu betrachten. Durch die ZusammenKüche werden neue Szenarien für Lebensmittel erfunden und ihre Möglichkeiten an der Schnittstelle von Alltag und Kunst neu überdacht. In den Workshops, Menüs und kulinarischen Installationen erforschen die Mitmachenden den sozialen Kontext der Gerichte, während sie ganz konkrete sinnliche und soziale Räume schaffen.
 
 ### Mitglieder
+#### Current
+Marius Busch, Brenno Costa, Paula Erstmann, Mascha Fehse, Kim Gundlach, Mona Horst, Jonas Kang, Elisa Klosterkötter,Melina Matzanke, Olga Monina, Ayscha Omar, Jasmine Parsley, Miranda Rigby, Helene Rehahn,TDD (Gülsüm Güler, İnci Güler), Rebecca Wall, Xijing Xu, Alice Morey, Franz Isfort, Selina Schlez, Joaquin Saravia-Herrera, Stefan Klosterkötter, Dana Schneider, Gosia Lehmann
 
-Marius Busch, Brenno Costa, Paula Erstmann, Mascha Fehse, Kim Gundlach, Mona Horst, Jonas Kang, Elisa Klosterkötter, Mio Kojima, Emily Krüger, Josa Leschner, Melina Matzanke, Olga Monina, Ayscha Omar, Jasmine Parsley, Miranda Rigby, Helene Rehahn, Tomma Suki, TDD (Gülsüm Güler, İnci Güler), Rebecca Wall, Xijing Xu
+#### Past
+Mio Kojima, Emily Krüger, Josa Leschner, Tomma Suki
 
 ### Kooperationspartner*innen 
 
 Das Bündnis Feuer&Flamme kooperierte u.a. mit:
+
+### 2026:
+Berlin Mondiale, E-werk Luckenwalde, E.ON Foundation, Deutsche Technik Museum, Gropius Kulturinseln, Universiy of Gastronomic Science (Italy), Urbane Praxis, Bauhaus Earth 
+
+### 2025: 
+Stitung St.Matthäus, Neue Nationalgalerie, Urbane Praxis, Berlin Mondiale, Countdown Grabowsee residency 
 
 ### 2024: 
 Baumschule Kulturforum Berlin, Berliner Festspiele, Kiosk of Solidarity, Köln International School of Design, New Design University Wien, Partisan Design Network (u.a. HfbK Hamburg, BTU Kassel, Die Angewandte Wien, HBK Saar, Universität Kassel, BTU Cottbus, TU Braunschweig), STERN Berlin, Urbane Praxis
