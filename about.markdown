@@ -39,7 +39,7 @@ Das Bündnis Feuer&Flamme kooperierte u.a. mit:
 Berlin Mondiale, E-werk Luckenwalde, E.ON Foundation, Deutsche Technik Museum, Gropius Kulturinseln, Universiy of Gastronomic Science (Italy), Urbane Praxis, Bauhaus Earth 
 
 ### 2025: 
-Stitung St.Matthäus, Neue Nationalgalerie, Urbane Praxis, Berlin Mondiale, Countdown Grabowsee residency 
+Stiftung St.Matthäus, Neue Nationalgalerie, Urbane Praxis, Berlin Mondiale, Countdown Grabowsee residency 
 
 ### 2024: 
 Baumschule Kulturforum Berlin, Berliner Festspiele, Kiosk of Solidarity, Köln International School of Design, New Design University Wien, Partisan Design Network (u.a. HfbK Hamburg, BTU Kassel, Die Angewandte Wien, HBK Saar, Universität Kassel, BTU Cottbus, TU Braunschweig), STERN Berlin, Urbane Praxis
