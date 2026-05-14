@@ -26,7 +26,7 @@ Die ZusammenKüche ist ein Ort und eine Praxis, welche die Bedürfnisse der jetz
 
 ### Mitglieder
 #### Current
-Marius Busch, Brenno Costa, Paula Erstmann, Mascha Fehse, Kim Gundlach, Mona Horst, Jonas Kang, Elisa Klosterkötter,Melina Matzanke, Olga Monina, Ayscha Omar, Jasmine Parsley, Miranda Rigby, Helene Rehahn,TDD (Gülsüm Güler, İnci Güler), Rebecca Wall, Xijing Xu, Alice Morey, Franz Isfort, Selina Schlez, Joaquin Saravia-Herrera, Stefan Klosterkötter, Dana Schneider, Gosia Lehmann
+Marius Busch, Brenno Costa, Paula Erstmann, Mascha Fehse, Kim Gundlach, Mona Horst, Jonas Kang, Elisa Klosterkötter,Melina Matzanke, Olga Monina, Ayscha Omar, Jasmine Parsley, Miranda Rigby, Helene Rehahn,TDD (Gülsüm Güler, İnci Güler), Rebecca Wall, Xijing Xu, Alice Morey, Franz Isfort, Selina Schlez, Joaquin Saravia-Herrera, Stefan Klosterkötter, Dana Schneider, Gosia Lehmann, Anastasiia Khitsenko
 
 #### Past
 Mio Kojima, Emily Krüger, Josa Leschner, Tomma Suki
